@@ -1,0 +1,2196 @@
+{
+  "heroes": [
+    {
+      "hero": "熔岩巨兽",
+      "games": 18,
+      "wins": 11,
+      "win_rate": 0.611,
+      "avg_score": 8.52,
+      "players": [
+        "凌浩",
+        "俊峰",
+        "冬前"
+      ]
+    },
+    {
+      "hero": "仙灵女巫",
+      "games": 13,
+      "wins": 7,
+      "win_rate": 0.538,
+      "avg_score": 6.82,
+      "players": [
+        "俊峰",
+        "高尚",
+        "铁锤"
+      ]
+    },
+    {
+      "hero": "赏金猎人",
+      "games": 12,
+      "wins": 7,
+      "win_rate": 0.583,
+      "avg_score": 10.4,
+      "players": [
+        "马涛",
+        "金金",
+        "冬前"
+      ]
+    },
+    {
+      "hero": "皮城女警",
+      "games": 11,
+      "wins": 7,
+      "win_rate": 0.636,
+      "avg_score": 11.62,
+      "players": [
+        "帅b"
+      ]
+    },
+    {
+      "hero": "堕落天使",
+      "games": 10,
+      "wins": 6,
+      "win_rate": 0.6,
+      "avg_score": 6.59,
+      "players": [
+        "铁锤"
+      ]
+    },
+    {
+      "hero": "潮汐海灵",
+      "games": 10,
+      "wins": 5,
+      "win_rate": 0.5,
+      "avg_score": 11.22,
+      "players": [
+        "ds5",
+        "长杰"
+      ]
+    },
+    {
+      "hero": "虚空掠夺者",
+      "games": 9,
+      "wins": 6,
+      "win_rate": 0.667,
+      "avg_score": 10.0,
+      "players": [
+        "ds5",
+        "阿水"
+      ]
+    },
+    {
+      "hero": "万花通灵",
+      "games": 9,
+      "wins": 3,
+      "win_rate": 0.333,
+      "avg_score": 5.79,
+      "players": [
+        "阿水",
+        "高尚"
+      ]
+    },
+    {
+      "hero": "深海泰坦",
+      "games": 9,
+      "wins": 6,
+      "win_rate": 0.667,
+      "avg_score": 6.06,
+      "players": [
+        "张昊",
+        "俊峰",
+        "阿水",
+        "卞成栋"
+      ]
+    },
+    {
+      "hero": "武器大师",
+      "games": 8,
+      "wins": 5,
+      "win_rate": 0.625,
+      "avg_score": 8.56,
+      "players": [
+        "ds5",
+        "长杰"
+      ]
+    },
+    {
+      "hero": "荆棘之兴",
+      "games": 8,
+      "wins": 4,
+      "win_rate": 0.5,
+      "avg_score": 8.16,
+      "players": [
+        "铁锤"
+      ]
+    },
+    {
+      "hero": "暗夜猎手",
+      "games": 8,
+      "wins": 2,
+      "win_rate": 0.25,
+      "avg_score": 7.83,
+      "players": [
+        "凌浩",
+        "老付",
+        "阿水",
+        "冬前"
+      ]
+    },
+    {
+      "hero": "虚空先知",
+      "games": 7,
+      "wins": 2,
+      "win_rate": 0.286,
+      "avg_score": 6.39,
+      "players": [
+        "俊峰",
+        "阿水",
+        "高尚"
+      ]
+    },
+    {
+      "hero": "亡灵战神",
+      "games": 7,
+      "wins": 5,
+      "win_rate": 0.714,
+      "avg_score": 7.61,
+      "players": [
+        "张昊",
+        "凌浩",
+        "俊峰"
+      ]
+    },
+    {
+      "hero": "战争女神",
+      "games": 7,
+      "wins": 3,
+      "win_rate": 0.429,
+      "avg_score": 7.33,
+      "players": [
+        "马涛",
+        "金金",
+        "阿水",
+        "冬前",
+        "ds5"
+      ]
+    },
+    {
+      "hero": "铁铠冥魂",
+      "games": 7,
+      "wins": 6,
+      "win_rate": 0.857,
+      "avg_score": 10.59,
+      "players": [
+        "马涛",
+        "阿水",
+        "高尚"
+      ]
+    },
+    {
+      "hero": "瘟疫之源",
+      "games": 7,
+      "wins": 1,
+      "win_rate": 0.143,
+      "avg_score": 8.29,
+      "players": [
+        "马涛"
+      ]
+    },
+    {
+      "hero": "正义巨像",
+      "games": 6,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 6.62,
+      "players": [
+        "阿水",
+        "金金",
+        "高尚",
+        "冬前"
+      ]
+    },
+    {
+      "hero": "解脱者",
+      "games": 6,
+      "wins": 2,
+      "win_rate": 0.333,
+      "avg_score": 9.25,
+      "players": [
+        "帅b",
+        "老付",
+        "金金"
+      ]
+    },
+    {
+      "hero": "暴走萝莉",
+      "games": 6,
+      "wins": 4,
+      "win_rate": 0.667,
+      "avg_score": 9.82,
+      "players": [
+        "帅b",
+        "冬前"
+      ]
+    },
+    {
+      "hero": "齐天大圣",
+      "games": 6,
+      "wins": 2,
+      "win_rate": 0.333,
+      "avg_score": 9.93,
+      "players": [
+        "长杰"
+      ]
+    },
+    {
+      "hero": "符文法师",
+      "games": 6,
+      "wins": 2,
+      "win_rate": 0.333,
+      "avg_score": 8.15,
+      "players": [
+        "金金"
+      ]
+    },
+    {
+      "hero": "牛头酋长",
+      "games": 6,
+      "wins": 4,
+      "win_rate": 0.667,
+      "avg_score": 6.48,
+      "players": [
+        "张昊",
+        "卞成栋",
+        "俊峰",
+        "冬前"
+      ]
+    },
+    {
+      "hero": "永恒梦魇",
+      "games": 6,
+      "wins": 3,
+      "win_rate": 0.5,
+      "avg_score": 11.35,
+      "players": [
+        "ds5",
+        "长杰"
+      ]
+    },
+    {
+      "hero": "北地之怒",
+      "games": 6,
+      "wins": 5,
+      "win_rate": 0.833,
+      "avg_score": 8.8,
+      "players": [
+        "高尚"
+      ]
+    },
+    {
+      "hero": "疾风剑豪",
+      "games": 5,
+      "wins": 3,
+      "win_rate": 0.6,
+      "avg_score": 7.32,
+      "players": [
+        "凌浩",
+        "冬前"
+      ]
+    },
+    {
+      "hero": "圣枪游侠",
+      "games": 5,
+      "wins": 3,
+      "win_rate": 0.6,
+      "avg_score": 9.9,
+      "players": [
+        "张昊",
+        "ds5"
+      ]
+    },
+    {
+      "hero": "奥术先驱",
+      "games": 5,
+      "wins": 1,
+      "win_rate": 0.2,
+      "avg_score": 6.06,
+      "players": [
+        "帅b",
+        "冬前"
+      ]
+    },
+    {
+      "hero": "冰霜女巫",
+      "games": 5,
+      "wins": 4,
+      "win_rate": 0.8,
+      "avg_score": 11.2,
+      "players": [
+        "马涛"
+      ]
+    },
+    {
+      "hero": "封魔剑魂",
+      "games": 5,
+      "wins": 3,
+      "win_rate": 0.6,
+      "avg_score": 12.46,
+      "players": [
+        "阿水"
+      ]
+    },
+    {
+      "hero": "异画师",
+      "games": 5,
+      "wins": 3,
+      "win_rate": 0.6,
+      "avg_score": 9.3,
+      "players": [
+        "帅b",
+        "金金"
+      ]
+    },
+    {
+      "hero": "无畏战车",
+      "games": 5,
+      "wins": 4,
+      "win_rate": 0.8,
+      "avg_score": 13.64,
+      "players": [
+        "冬前"
+      ]
+    },
+    {
+      "hero": "龙血武姬",
+      "games": 4,
+      "wins": 4,
+      "win_rate": 1.0,
+      "avg_score": 11.28,
+      "players": [
+        "ds5"
+      ]
+    },
+    {
+      "hero": "百裂冥犬",
+      "games": 4,
+      "wins": 1,
+      "win_rate": 0.25,
+      "avg_score": 11.28,
+      "players": [
+        "长杰",
+        "阿水"
+      ]
+    },
+    {
+      "hero": "诺克萨斯之手",
+      "games": 4,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 8.7,
+      "players": [
+        "阿水",
+        "高尚",
+        "冬前"
+      ]
+    },
+    {
+      "hero": "河流之王",
+      "games": 4,
+      "wins": 1,
+      "win_rate": 0.25,
+      "avg_score": 8.78,
+      "players": [
+        "高尚",
+        "冬前"
+      ]
+    },
+    {
+      "hero": "虚空遁地兽",
+      "games": 4,
+      "wins": 3,
+      "win_rate": 0.75,
+      "avg_score": 10.93,
+      "players": [
+        "长杰"
+      ]
+    },
+    {
+      "hero": "纳祖芒荣耀",
+      "games": 4,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 7.95,
+      "players": [
+        "凌浩",
+        "阿水",
+        "老付",
+        "高尚"
+      ]
+    },
+    {
+      "hero": "爆破鬼才",
+      "games": 4,
+      "wins": 3,
+      "win_rate": 0.75,
+      "avg_score": 11.05,
+      "players": [
+        "阿水"
+      ]
+    },
+    {
+      "hero": "时间刺客",
+      "games": 4,
+      "wins": 3,
+      "win_rate": 0.75,
+      "avg_score": 10.38,
+      "players": [
+        "ds5"
+      ]
+    },
+    {
+      "hero": "皎月女神",
+      "games": 4,
+      "wins": 3,
+      "win_rate": 0.75,
+      "avg_score": 9.52,
+      "players": [
+        "帅b"
+      ]
+    },
+    {
+      "hero": "不屈之枪",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667,
+      "avg_score": 7.77,
+      "players": [
+        "张昊"
+      ]
+    },
+    {
+      "hero": "不破之誓",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333,
+      "avg_score": 8.77,
+      "players": [
+        "马涛",
+        "金金"
+      ]
+    },
+    {
+      "hero": "曙光女神",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 5.9,
+      "players": [
+        "张昊",
+        "铁锤"
+      ]
+    },
+    {
+      "hero": "诺克萨斯统领",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 6.17,
+      "players": [
+        "张昊",
+        "阿水"
+      ]
+    },
+    {
+      "hero": "戏命师",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 11.23,
+      "players": [
+        "冬前"
+      ]
+    },
+    {
+      "hero": "远古巫灵",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667,
+      "avg_score": 11.23,
+      "players": [
+        "凌浩",
+        "阿水"
+      ]
+    },
+    {
+      "hero": "殇之木乃伊",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333,
+      "avg_score": 5.8,
+      "players": [
+        "高尚",
+        "铁锤"
+      ]
+    },
+    {
+      "hero": "德邦总管",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 8.13,
+      "players": [
+        "长杰"
+      ]
+    },
+    {
+      "hero": "祖安狂人",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333,
+      "avg_score": 9.07,
+      "players": [
+        "阿水",
+        "冬前"
+      ]
+    },
+    {
+      "hero": "沙漠死神",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0,
+      "avg_score": 11.93,
+      "players": [
+        "冬前"
+      ]
+    },
+    {
+      "hero": "弗雷尔卓德之心",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667,
+      "avg_score": 8.23,
+      "players": [
+        "张昊"
+      ]
+    },
+    {
+      "hero": "虚空之女",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0,
+      "avg_score": 12.03,
+      "players": [
+        "马涛",
+        "阿水",
+        "ds5"
+      ]
+    },
+    {
+      "hero": "暗黑元首",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667,
+      "avg_score": 10.1,
+      "players": [
+        "帅b"
+      ]
+    },
+    {
+      "hero": "逆羽",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333,
+      "avg_score": 12.07,
+      "players": [
+        "ds5",
+        "金金"
+      ]
+    },
+    {
+      "hero": "盲僧",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 7.63,
+      "players": [
+        "冬前"
+      ]
+    },
+    {
+      "hero": "德玛西亚之力",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0,
+      "avg_score": 12.85,
+      "players": [
+        "阿水",
+        "俊峰"
+      ]
+    },
+    {
+      "hero": "离群之刺",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0,
+      "avg_score": 11.95,
+      "players": [
+        "凌浩"
+      ]
+    },
+    {
+      "hero": "探险家",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 8.2,
+      "players": [
+        "帅b"
+      ]
+    },
+    {
+      "hero": "无极剑圣",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 7.25,
+      "players": [
+        "ds5",
+        "阿水"
+      ]
+    },
+    {
+      "hero": "暮光之眼",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 7.65,
+      "players": [
+        "俊峰"
+      ]
+    },
+    {
+      "hero": "海兽祭司",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 9.9,
+      "players": [
+        "冬前"
+      ]
+    },
+    {
+      "hero": "虚空行者",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 6.75,
+      "players": [
+        "马涛",
+        "凌浩"
+      ]
+    },
+    {
+      "hero": "双界灵兔",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 10.15,
+      "players": [
+        "帅b",
+        "金金"
+      ]
+    },
+    {
+      "hero": "破败之王",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 8.2,
+      "players": [
+        "长杰",
+        "阿水"
+      ]
+    },
+    {
+      "hero": "含羞蓓蕾",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 11.6,
+      "players": [
+        "ds5"
+      ]
+    },
+    {
+      "hero": "英勇投弹手",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 10.6,
+      "players": [
+        "金金"
+      ]
+    },
+    {
+      "hero": "寒冰射手",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 10.05,
+      "players": [
+        "阿水"
+      ]
+    },
+    {
+      "hero": "影流之镰",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 10.0,
+      "players": [
+        "阿水"
+      ]
+    },
+    {
+      "hero": "铸星龙王",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0,
+      "avg_score": 12.15,
+      "players": [
+        "帅b"
+      ]
+    },
+    {
+      "hero": "巨魔之王",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 8.8,
+      "players": [
+        "长杰"
+      ]
+    },
+    {
+      "hero": "德玛西亚之翼",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 8.7,
+      "players": [
+        "ds5"
+      ]
+    },
+    {
+      "hero": "诡术妖姬",
+      "games": 1,
+      "wins": 1,
+      "win_rate": 1.0,
+      "avg_score": 12.5,
+      "players": [
+        "凌浩"
+      ]
+    },
+    {
+      "hero": "牧魂人",
+      "games": 1,
+      "wins": 1,
+      "win_rate": 1.0,
+      "avg_score": 9.5,
+      "players": [
+        "俊峰"
+      ]
+    },
+    {
+      "hero": "大发明家",
+      "games": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 9.3,
+      "players": [
+        "金金"
+      ]
+    },
+    {
+      "hero": "九尾妖狐",
+      "games": 1,
+      "wins": 1,
+      "win_rate": 1.0,
+      "avg_score": 10.7,
+      "players": [
+        "凌浩"
+      ]
+    },
+    {
+      "hero": "光辉女郎",
+      "games": 1,
+      "wins": 1,
+      "win_rate": 1.0,
+      "avg_score": 10.0,
+      "players": [
+        "阿水"
+      ]
+    },
+    {
+      "hero": "流光镜影",
+      "games": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 6.5,
+      "players": [
+        "金金"
+      ]
+    },
+    {
+      "hero": "唤潮鲛姬",
+      "games": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 5.7,
+      "players": [
+        "铁锤"
+      ]
+    },
+    {
+      "hero": "机械公敌",
+      "games": 1,
+      "wins": 1,
+      "win_rate": 1.0,
+      "avg_score": 6.6,
+      "players": [
+        "凌浩"
+      ]
+    },
+    {
+      "hero": "众星之子",
+      "games": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 5.0,
+      "players": [
+        "俊峰"
+      ]
+    },
+    {
+      "hero": "暴怒骑士",
+      "games": 1,
+      "wins": 1,
+      "win_rate": 1.0,
+      "avg_score": 8.9,
+      "players": [
+        "凌浩"
+      ]
+    },
+    {
+      "hero": "蒸汽机器人",
+      "games": 1,
+      "wins": 1,
+      "win_rate": 1.0,
+      "avg_score": 4.9,
+      "players": [
+        "张昊"
+      ]
+    },
+    {
+      "hero": "魂锁典狱长",
+      "games": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 3.8,
+      "players": [
+        "阿水"
+      ]
+    },
+    {
+      "hero": "影流之主",
+      "games": 1,
+      "wins": 1,
+      "win_rate": 1.0,
+      "avg_score": 9.8,
+      "players": [
+        "凌浩"
+      ]
+    },
+    {
+      "hero": "星界游神",
+      "games": 1,
+      "wins": 1,
+      "win_rate": 1.0,
+      "avg_score": 7.6,
+      "players": [
+        "张昊"
+      ]
+    },
+    {
+      "hero": "涤魂圣枪",
+      "games": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 6.9,
+      "players": [
+        "阿水"
+      ]
+    },
+    {
+      "hero": "炽炎雏龙",
+      "games": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 5.6,
+      "players": [
+        "金金"
+      ]
+    },
+    {
+      "hero": "邪恶小法师",
+      "games": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 6.0,
+      "players": [
+        "高尚"
+      ]
+    },
+    {
+      "hero": "狂战士",
+      "games": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 6.8,
+      "players": [
+        "张昊"
+      ]
+    },
+    {
+      "hero": "复仇焰魂",
+      "games": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 7.3,
+      "players": [
+        "阿水"
+      ]
+    },
+    {
+      "hero": "愁云使者",
+      "games": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 8.2,
+      "players": [
+        "ds5"
+      ]
+    },
+    {
+      "hero": "虚空恐惧",
+      "games": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 9.0,
+      "players": [
+        "马涛"
+      ]
+    },
+    {
+      "hero": "青钢影",
+      "games": 1,
+      "wins": 1,
+      "win_rate": 1.0,
+      "avg_score": 9.8,
+      "players": [
+        "帅b"
+      ]
+    },
+    {
+      "hero": "荒漠屠夫",
+      "games": 1,
+      "wins": 1,
+      "win_rate": 1.0,
+      "avg_score": 9.7,
+      "players": [
+        "长杰"
+      ]
+    },
+    {
+      "hero": "暗裔剑魔",
+      "games": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 4.9,
+      "players": [
+        "冬前"
+      ]
+    }
+  ],
+  "player_pools": [
+    {
+      "name": "ds5",
+      "heroes": [
+        {
+          "hero": "虚空掠夺者",
+          "games": 8,
+          "wins": 6,
+          "win_rate": 0.75,
+          "avg_score": 9.81
+        },
+        {
+          "hero": "龙血武姬",
+          "games": 4,
+          "wins": 4,
+          "win_rate": 1.0,
+          "avg_score": 11.28
+        },
+        {
+          "hero": "时间刺客",
+          "games": 4,
+          "wins": 3,
+          "win_rate": 0.75,
+          "avg_score": 10.38
+        },
+        {
+          "hero": "潮汐海灵",
+          "games": 4,
+          "wins": 2,
+          "win_rate": 0.5,
+          "avg_score": 10.3
+        },
+        {
+          "hero": "圣枪游侠",
+          "games": 4,
+          "wins": 3,
+          "win_rate": 0.75,
+          "avg_score": 11.03
+        },
+        {
+          "hero": "武器大师",
+          "games": 2,
+          "wins": 2,
+          "win_rate": 1.0,
+          "avg_score": 9.05
+        },
+        {
+          "hero": "永恒梦魇",
+          "games": 2,
+          "wins": 1,
+          "win_rate": 0.5,
+          "avg_score": 8.8
+        },
+        {
+          "hero": "含羞蓓蕾",
+          "games": 2,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 11.6
+        },
+        {
+          "hero": "逆羽",
+          "games": 2,
+          "wins": 1,
+          "win_rate": 0.5,
+          "avg_score": 13.5
+        },
+        {
+          "hero": "德玛西亚之翼",
+          "games": 2,
+          "wins": 1,
+          "win_rate": 0.5,
+          "avg_score": 8.7
+        },
+        {
+          "hero": "无极剑圣",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 9.1
+        },
+        {
+          "hero": "虚空之女",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 13.4
+        },
+        {
+          "hero": "愁云使者",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 8.2
+        },
+        {
+          "hero": "战争女神",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 8.9
+        }
+      ]
+    },
+    {
+      "name": "阿水",
+      "heroes": [
+        {
+          "hero": "封魔剑魂",
+          "games": 5,
+          "wins": 3,
+          "win_rate": 0.6,
+          "avg_score": 12.46
+        },
+        {
+          "hero": "爆破鬼才",
+          "games": 4,
+          "wins": 3,
+          "win_rate": 0.75,
+          "avg_score": 11.05
+        },
+        {
+          "hero": "百裂冥犬",
+          "games": 2,
+          "wins": 1,
+          "win_rate": 0.5,
+          "avg_score": 11.15
+        },
+        {
+          "hero": "远古巫灵",
+          "games": 2,
+          "wins": 1,
+          "win_rate": 0.5,
+          "avg_score": 10.35
+        },
+        {
+          "hero": "诺克萨斯之手",
+          "games": 2,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 11.35
+        },
+        {
+          "hero": "寒冰射手",
+          "games": 2,
+          "wins": 1,
+          "win_rate": 0.5,
+          "avg_score": 10.05
+        },
+        {
+          "hero": "影流之镰",
+          "games": 2,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 10.0
+        },
+        {
+          "hero": "无极剑圣",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 5.4
+        },
+        {
+          "hero": "虚空掠夺者",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 11.5
+        },
+        {
+          "hero": "诺克萨斯统领",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 8.3
+        },
+        {
+          "hero": "虚空先知",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 7.6
+        },
+        {
+          "hero": "光辉女郎",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 10.0
+        },
+        {
+          "hero": "万花通灵",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 8.5
+        },
+        {
+          "hero": "祖安狂人",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.9
+        },
+        {
+          "hero": "铁铠冥魂",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 10.5
+        },
+        {
+          "hero": "德玛西亚之力",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 13.0
+        },
+        {
+          "hero": "深海泰坦",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 4.3
+        },
+        {
+          "hero": "魂锁典狱长",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 3.8
+        },
+        {
+          "hero": "涤魂圣枪",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.9
+        },
+        {
+          "hero": "正义巨像",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.3
+        },
+        {
+          "hero": "破败之王",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 8.8
+        },
+        {
+          "hero": "纳祖芒荣耀",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 8.3
+        },
+        {
+          "hero": "暗夜猎手",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.9
+        },
+        {
+          "hero": "复仇焰魂",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 7.3
+        },
+        {
+          "hero": "战争女神",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 12.8
+        },
+        {
+          "hero": "虚空之女",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 11.3
+        }
+      ]
+    },
+    {
+      "name": "俊峰",
+      "heroes": [
+        {
+          "hero": "熔岩巨兽",
+          "games": 16,
+          "wins": 10,
+          "win_rate": 0.625,
+          "avg_score": 8.55
+        },
+        {
+          "hero": "亡灵战神",
+          "games": 5,
+          "wins": 4,
+          "win_rate": 0.8,
+          "avg_score": 7.6
+        },
+        {
+          "hero": "虚空先知",
+          "games": 4,
+          "wins": 2,
+          "win_rate": 0.5,
+          "avg_score": 6.28
+        },
+        {
+          "hero": "仙灵女巫",
+          "games": 3,
+          "wins": 2,
+          "win_rate": 0.667,
+          "avg_score": 5.9
+        },
+        {
+          "hero": "暮光之眼",
+          "games": 2,
+          "wins": 1,
+          "win_rate": 0.5,
+          "avg_score": 7.65
+        },
+        {
+          "hero": "德玛西亚之力",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 12.7
+        },
+        {
+          "hero": "牧魂人",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 9.5
+        },
+        {
+          "hero": "众星之子",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 5.0
+        },
+        {
+          "hero": "牛头酋长",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 8.0
+        },
+        {
+          "hero": "深海泰坦",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 3.1
+        }
+      ]
+    },
+    {
+      "name": "冬前",
+      "heroes": [
+        {
+          "hero": "暗夜猎手",
+          "games": 5,
+          "wins": 2,
+          "win_rate": 0.4,
+          "avg_score": 8.92
+        },
+        {
+          "hero": "无畏战车",
+          "games": 5,
+          "wins": 4,
+          "win_rate": 0.8,
+          "avg_score": 13.64
+        },
+        {
+          "hero": "疾风剑豪",
+          "games": 4,
+          "wins": 2,
+          "win_rate": 0.5,
+          "avg_score": 7.5
+        },
+        {
+          "hero": "戏命师",
+          "games": 3,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 11.23
+        },
+        {
+          "hero": "沙漠死神",
+          "games": 3,
+          "wins": 3,
+          "win_rate": 1.0,
+          "avg_score": 11.93
+        },
+        {
+          "hero": "盲僧",
+          "games": 3,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 7.63
+        },
+        {
+          "hero": "海兽祭司",
+          "games": 2,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 9.9
+        },
+        {
+          "hero": "祖安狂人",
+          "games": 2,
+          "wins": 1,
+          "win_rate": 0.5,
+          "avg_score": 10.15
+        },
+        {
+          "hero": "暴走萝莉",
+          "games": 2,
+          "wins": 1,
+          "win_rate": 0.5,
+          "avg_score": 8.1
+        },
+        {
+          "hero": "诺克萨斯之手",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 8.9
+        },
+        {
+          "hero": "河流之王",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 9.6
+        },
+        {
+          "hero": "正义巨像",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 5.1
+        },
+        {
+          "hero": "战争女神",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.8
+        },
+        {
+          "hero": "牛头酋长",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.7
+        },
+        {
+          "hero": "赏金猎人",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 8.8
+        },
+        {
+          "hero": "熔岩巨兽",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 10.2
+        },
+        {
+          "hero": "奥术先驱",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 4.6
+        },
+        {
+          "hero": "暗裔剑魔",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 4.9
+        }
+      ]
+    },
+    {
+      "name": "凌浩",
+      "heroes": [
+        {
+          "hero": "离群之刺",
+          "games": 2,
+          "wins": 2,
+          "win_rate": 1.0,
+          "avg_score": 11.95
+        },
+        {
+          "hero": "虚空行者",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 8.6
+        },
+        {
+          "hero": "疾风剑豪",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 6.6
+        },
+        {
+          "hero": "诡术妖姬",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 12.5
+        },
+        {
+          "hero": "九尾妖狐",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 10.7
+        },
+        {
+          "hero": "暗夜猎手",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 4.9
+        },
+        {
+          "hero": "机械公敌",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 6.6
+        },
+        {
+          "hero": "纳祖芒荣耀",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.9
+        },
+        {
+          "hero": "亡灵战神",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 10.0
+        },
+        {
+          "hero": "熔岩巨兽",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.3
+        },
+        {
+          "hero": "远古巫灵",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 13.0
+        },
+        {
+          "hero": "暴怒骑士",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 8.9
+        },
+        {
+          "hero": "影流之主",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 9.8
+        }
+      ]
+    },
+    {
+      "name": "高尚",
+      "heroes": [
+        {
+          "hero": "万花通灵",
+          "games": 8,
+          "wins": 3,
+          "win_rate": 0.375,
+          "avg_score": 5.45
+        },
+        {
+          "hero": "北地之怒",
+          "games": 6,
+          "wins": 5,
+          "win_rate": 0.833,
+          "avg_score": 8.8
+        },
+        {
+          "hero": "河流之王",
+          "games": 3,
+          "wins": 1,
+          "win_rate": 0.333,
+          "avg_score": 8.5
+        },
+        {
+          "hero": "虚空先知",
+          "games": 2,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.0
+        },
+        {
+          "hero": "铁铠冥魂",
+          "games": 2,
+          "wins": 1,
+          "win_rate": 0.5,
+          "avg_score": 9.9
+        },
+        {
+          "hero": "正义巨像",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 7.8
+        },
+        {
+          "hero": "仙灵女巫",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 3.3
+        },
+        {
+          "hero": "纳祖芒荣耀",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 7.4
+        },
+        {
+          "hero": "诺克萨斯之手",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 3.2
+        },
+        {
+          "hero": "邪恶小法师",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.0
+        },
+        {
+          "hero": "殇之木乃伊",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "帅b",
+      "heroes": [
+        {
+          "hero": "皮城女警",
+          "games": 11,
+          "wins": 7,
+          "win_rate": 0.636,
+          "avg_score": 11.62
+        },
+        {
+          "hero": "暴走萝莉",
+          "games": 4,
+          "wins": 3,
+          "win_rate": 0.75,
+          "avg_score": 10.68
+        },
+        {
+          "hero": "奥术先驱",
+          "games": 4,
+          "wins": 1,
+          "win_rate": 0.25,
+          "avg_score": 6.43
+        },
+        {
+          "hero": "皎月女神",
+          "games": 4,
+          "wins": 3,
+          "win_rate": 0.75,
+          "avg_score": 9.52
+        },
+        {
+          "hero": "解脱者",
+          "games": 3,
+          "wins": 2,
+          "win_rate": 0.667,
+          "avg_score": 11.63
+        },
+        {
+          "hero": "异画师",
+          "games": 3,
+          "wins": 3,
+          "win_rate": 1.0,
+          "avg_score": 10.87
+        },
+        {
+          "hero": "暗黑元首",
+          "games": 3,
+          "wins": 2,
+          "win_rate": 0.667,
+          "avg_score": 10.1
+        },
+        {
+          "hero": "探险家",
+          "games": 2,
+          "wins": 1,
+          "win_rate": 0.5,
+          "avg_score": 8.2
+        },
+        {
+          "hero": "铸星龙王",
+          "games": 2,
+          "wins": 2,
+          "win_rate": 1.0,
+          "avg_score": 12.15
+        },
+        {
+          "hero": "青钢影",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 9.8
+        },
+        {
+          "hero": "双界灵兔",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 14.8
+        }
+      ]
+    },
+    {
+      "name": "金金",
+      "heroes": [
+        {
+          "hero": "符文法师",
+          "games": 6,
+          "wins": 2,
+          "win_rate": 0.333,
+          "avg_score": 8.15
+        },
+        {
+          "hero": "正义巨像",
+          "games": 3,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.83
+        },
+        {
+          "hero": "赏金猎人",
+          "games": 2,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 8.4
+        },
+        {
+          "hero": "解脱者",
+          "games": 2,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 7.65
+        },
+        {
+          "hero": "战争女神",
+          "games": 2,
+          "wins": 1,
+          "win_rate": 0.5,
+          "avg_score": 6.05
+        },
+        {
+          "hero": "异画师",
+          "games": 2,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.95
+        },
+        {
+          "hero": "英勇投弹手",
+          "games": 2,
+          "wins": 1,
+          "win_rate": 0.5,
+          "avg_score": 10.6
+        },
+        {
+          "hero": "不破之誓",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 7.0
+        },
+        {
+          "hero": "大发明家",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 9.3
+        },
+        {
+          "hero": "流光镜影",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.5
+        },
+        {
+          "hero": "双界灵兔",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 5.5
+        },
+        {
+          "hero": "炽炎雏龙",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 5.6
+        },
+        {
+          "hero": "逆羽",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "铁锤",
+      "heroes": [
+        {
+          "hero": "堕落天使",
+          "games": 10,
+          "wins": 6,
+          "win_rate": 0.6,
+          "avg_score": 6.59
+        },
+        {
+          "hero": "仙灵女巫",
+          "games": 9,
+          "wins": 5,
+          "win_rate": 0.556,
+          "avg_score": 7.52
+        },
+        {
+          "hero": "荆棘之兴",
+          "games": 8,
+          "wins": 4,
+          "win_rate": 0.5,
+          "avg_score": 8.16
+        },
+        {
+          "hero": "殇之木乃伊",
+          "games": 2,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 4.7
+        },
+        {
+          "hero": "曙光女神",
+          "games": 2,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.25
+        },
+        {
+          "hero": "唤潮鲛姬",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 5.7
+        }
+      ]
+    },
+    {
+      "name": "张昊",
+      "heroes": [
+        {
+          "hero": "深海泰坦",
+          "games": 5,
+          "wins": 4,
+          "win_rate": 0.8,
+          "avg_score": 6.1
+        },
+        {
+          "hero": "不屈之枪",
+          "games": 3,
+          "wins": 2,
+          "win_rate": 0.667,
+          "avg_score": 7.77
+        },
+        {
+          "hero": "牛头酋长",
+          "games": 3,
+          "wins": 2,
+          "win_rate": 0.667,
+          "avg_score": 6.73
+        },
+        {
+          "hero": "弗雷尔卓德之心",
+          "games": 3,
+          "wins": 2,
+          "win_rate": 0.667,
+          "avg_score": 8.23
+        },
+        {
+          "hero": "诺克萨斯统领",
+          "games": 2,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 5.1
+        },
+        {
+          "hero": "曙光女神",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 5.2
+        },
+        {
+          "hero": "圣枪游侠",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 5.4
+        },
+        {
+          "hero": "蒸汽机器人",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 4.9
+        },
+        {
+          "hero": "星界游神",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 7.6
+        },
+        {
+          "hero": "狂战士",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.8
+        },
+        {
+          "hero": "亡灵战神",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 5.3
+        }
+      ]
+    },
+    {
+      "name": "长杰",
+      "heroes": [
+        {
+          "hero": "齐天大圣",
+          "games": 6,
+          "wins": 2,
+          "win_rate": 0.333,
+          "avg_score": 9.93
+        },
+        {
+          "hero": "武器大师",
+          "games": 6,
+          "wins": 3,
+          "win_rate": 0.5,
+          "avg_score": 8.4
+        },
+        {
+          "hero": "潮汐海灵",
+          "games": 6,
+          "wins": 3,
+          "win_rate": 0.5,
+          "avg_score": 11.83
+        },
+        {
+          "hero": "虚空遁地兽",
+          "games": 4,
+          "wins": 3,
+          "win_rate": 0.75,
+          "avg_score": 10.93
+        },
+        {
+          "hero": "永恒梦魇",
+          "games": 4,
+          "wins": 2,
+          "win_rate": 0.5,
+          "avg_score": 12.62
+        },
+        {
+          "hero": "德邦总管",
+          "games": 3,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 8.13
+        },
+        {
+          "hero": "百裂冥犬",
+          "games": 2,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 11.4
+        },
+        {
+          "hero": "巨魔之王",
+          "games": 2,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 8.8
+        },
+        {
+          "hero": "破败之王",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 7.6
+        },
+        {
+          "hero": "荒漠屠夫",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "马涛",
+      "heroes": [
+        {
+          "hero": "赏金猎人",
+          "games": 9,
+          "wins": 7,
+          "win_rate": 0.778,
+          "avg_score": 11.02
+        },
+        {
+          "hero": "瘟疫之源",
+          "games": 7,
+          "wins": 1,
+          "win_rate": 0.143,
+          "avg_score": 8.29
+        },
+        {
+          "hero": "冰霜女巫",
+          "games": 5,
+          "wins": 4,
+          "win_rate": 0.8,
+          "avg_score": 11.2
+        },
+        {
+          "hero": "铁铠冥魂",
+          "games": 4,
+          "wins": 4,
+          "win_rate": 1.0,
+          "avg_score": 10.95
+        },
+        {
+          "hero": "战争女神",
+          "games": 2,
+          "wins": 1,
+          "win_rate": 0.5,
+          "avg_score": 5.35
+        },
+        {
+          "hero": "不破之誓",
+          "games": 2,
+          "wins": 1,
+          "win_rate": 0.5,
+          "avg_score": 9.65
+        },
+        {
+          "hero": "虚空之女",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 11.4
+        },
+        {
+          "hero": "虚空行者",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 4.9
+        },
+        {
+          "hero": "虚空恐惧",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 9.0
+        }
+      ]
+    },
+    {
+      "name": "老付",
+      "heroes": [
+        {
+          "hero": "纳祖芒荣耀",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 9.2
+        },
+        {
+          "hero": "解脱者",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 5.3
+        },
+        {
+          "hero": "暗夜猎手",
+          "games": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "avg_score": 6.2
+        }
+      ]
+    },
+    {
+      "name": "卞成栋",
+      "heroes": [
+        {
+          "hero": "深海泰坦",
+          "games": 2,
+          "wins": 2,
+          "win_rate": 1.0,
+          "avg_score": 8.3
+        },
+        {
+          "hero": "牛头酋长",
+          "games": 1,
+          "wins": 1,
+          "win_rate": 1.0,
+          "avg_score": 4.0
+        }
+      ]
+    }
+  ]
+}

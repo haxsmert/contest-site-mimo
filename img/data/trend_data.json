@@ -1,0 +1,1062 @@
+[
+  {
+    "name": "ds5",
+    "series": [
+      {
+        "date": "20260409",
+        "games": 3,
+        "avg_score": 11.07,
+        "win_rate": 1.0,
+        "kda": 3.47,
+        "mvps": 1,
+        "cum_avg_score": 11.07
+      },
+      {
+        "date": "20260413",
+        "games": 3,
+        "avg_score": 9.73,
+        "win_rate": 1.0,
+        "kda": 3.14,
+        "mvps": 1,
+        "cum_avg_score": 10.4
+      },
+      {
+        "date": "20260420",
+        "games": 5,
+        "avg_score": 9.62,
+        "win_rate": 0.6,
+        "kda": 2.86,
+        "mvps": 0,
+        "cum_avg_score": 10.05
+      },
+      {
+        "date": "20260427",
+        "games": 5,
+        "avg_score": 10.38,
+        "win_rate": 0.6,
+        "kda": 4.38,
+        "mvps": 1,
+        "cum_avg_score": 10.15
+      },
+      {
+        "date": "20260508",
+        "games": 3,
+        "avg_score": 10.33,
+        "win_rate": 1.0,
+        "kda": 4.0,
+        "mvps": 0,
+        "cum_avg_score": 10.18
+      },
+      {
+        "date": "20260511",
+        "games": 3,
+        "avg_score": 9.8,
+        "win_rate": 1.0,
+        "kda": 3.0,
+        "mvps": 1,
+        "cum_avg_score": 10.13
+      },
+      {
+        "date": "20260518",
+        "games": 3,
+        "avg_score": 10.17,
+        "win_rate": 0.0,
+        "kda": 1.38,
+        "mvps": 0,
+        "cum_avg_score": 10.13
+      },
+      {
+        "date": "20260525",
+        "games": 3,
+        "avg_score": 11.87,
+        "win_rate": 1.0,
+        "kda": 5.44,
+        "mvps": 1,
+        "cum_avg_score": 10.32
+      },
+      {
+        "date": "20260601",
+        "games": 3,
+        "avg_score": 13.0,
+        "win_rate": 1.0,
+        "kda": 6.22,
+        "mvps": 1,
+        "cum_avg_score": 10.58
+      },
+      {
+        "date": "20260608",
+        "games": 3,
+        "avg_score": 8.77,
+        "win_rate": 0.0,
+        "kda": 1.81,
+        "mvps": 0,
+        "cum_avg_score": 10.42
+      },
+      {
+        "date": "20260610",
+        "games": 4,
+        "avg_score": 9.78,
+        "win_rate": 0.25,
+        "kda": 2.61,
+        "mvps": 1,
+        "cum_avg_score": 10.35
+      }
+    ]
+  },
+  {
+    "name": "俊峰",
+    "series": [
+      {
+        "date": "20260409",
+        "games": 3,
+        "avg_score": 9.77,
+        "win_rate": 1.0,
+        "kda": 3.31,
+        "mvps": 0,
+        "cum_avg_score": 9.77
+      },
+      {
+        "date": "20260413",
+        "games": 3,
+        "avg_score": 8.8,
+        "win_rate": 1.0,
+        "kda": 3.27,
+        "mvps": 0,
+        "cum_avg_score": 9.29
+      },
+      {
+        "date": "20260420",
+        "games": 5,
+        "avg_score": 8.0,
+        "win_rate": 0.6,
+        "kda": 2.42,
+        "mvps": 0,
+        "cum_avg_score": 8.7
+      },
+      {
+        "date": "20260427",
+        "games": 5,
+        "avg_score": 6.14,
+        "win_rate": 0.6,
+        "kda": 2.74,
+        "mvps": 0,
+        "cum_avg_score": 7.9
+      },
+      {
+        "date": "20260511",
+        "games": 3,
+        "avg_score": 6.6,
+        "win_rate": 0.0,
+        "kda": 1.67,
+        "mvps": 0,
+        "cum_avg_score": 7.7
+      },
+      {
+        "date": "20260518",
+        "games": 3,
+        "avg_score": 12.23,
+        "win_rate": 1.0,
+        "kda": 17.0,
+        "mvps": 1,
+        "cum_avg_score": 8.31
+      },
+      {
+        "date": "20260525",
+        "games": 3,
+        "avg_score": 8.5,
+        "win_rate": 1.0,
+        "kda": 3.18,
+        "mvps": 0,
+        "cum_avg_score": 8.34
+      },
+      {
+        "date": "20260601",
+        "games": 3,
+        "avg_score": 6.13,
+        "win_rate": 1.0,
+        "kda": 2.42,
+        "mvps": 0,
+        "cum_avg_score": 8.1
+      },
+      {
+        "date": "20260608",
+        "games": 3,
+        "avg_score": 6.63,
+        "win_rate": 0.0,
+        "kda": 1.65,
+        "mvps": 0,
+        "cum_avg_score": 7.96
+      },
+      {
+        "date": "20260610",
+        "games": 4,
+        "avg_score": 6.12,
+        "win_rate": 0.25,
+        "kda": 1.77,
+        "mvps": 0,
+        "cum_avg_score": 7.75
+      }
+    ]
+  },
+  {
+    "name": "冬前",
+    "series": [
+      {
+        "date": "20260409",
+        "games": 3,
+        "avg_score": 9.5,
+        "win_rate": 0.0,
+        "kda": 1.95,
+        "mvps": 0,
+        "cum_avg_score": 9.5
+      },
+      {
+        "date": "20260413",
+        "games": 3,
+        "avg_score": 7.5,
+        "win_rate": 0.0,
+        "kda": 2.19,
+        "mvps": 0,
+        "cum_avg_score": 8.5
+      },
+      {
+        "date": "20260420",
+        "games": 5,
+        "avg_score": 8.82,
+        "win_rate": 0.4,
+        "kda": 3.08,
+        "mvps": 0,
+        "cum_avg_score": 8.65
+      },
+      {
+        "date": "20260427",
+        "games": 5,
+        "avg_score": 8.64,
+        "win_rate": 0.6,
+        "kda": 2.39,
+        "mvps": 1,
+        "cum_avg_score": 8.64
+      },
+      {
+        "date": "20260508",
+        "games": 3,
+        "avg_score": 12.33,
+        "win_rate": 0.0,
+        "kda": 4.5,
+        "mvps": 0,
+        "cum_avg_score": 9.23
+      },
+      {
+        "date": "20260511",
+        "games": 3,
+        "avg_score": 9.97,
+        "win_rate": 1.0,
+        "kda": 3.53,
+        "mvps": 0,
+        "cum_avg_score": 9.33
+      },
+      {
+        "date": "20260518",
+        "games": 3,
+        "avg_score": 7.13,
+        "win_rate": 0.0,
+        "kda": 0.67,
+        "mvps": 0,
+        "cum_avg_score": 9.06
+      },
+      {
+        "date": "20260525",
+        "games": 3,
+        "avg_score": 8.2,
+        "win_rate": 0.0,
+        "kda": 1.63,
+        "mvps": 0,
+        "cum_avg_score": 8.97
+      },
+      {
+        "date": "20260601",
+        "games": 3,
+        "avg_score": 8.6,
+        "win_rate": 0.0,
+        "kda": 2.06,
+        "mvps": 0,
+        "cum_avg_score": 8.94
+      },
+      {
+        "date": "20260608",
+        "games": 3,
+        "avg_score": 14.47,
+        "win_rate": 1.0,
+        "kda": 9.0,
+        "mvps": 3,
+        "cum_avg_score": 9.42
+      },
+      {
+        "date": "20260610",
+        "games": 4,
+        "avg_score": 9.18,
+        "win_rate": 0.75,
+        "kda": 2.52,
+        "mvps": 1,
+        "cum_avg_score": 9.4
+      }
+    ]
+  },
+  {
+    "name": "凌浩",
+    "series": [
+      {
+        "date": "20260409",
+        "games": 3,
+        "avg_score": 9.23,
+        "win_rate": 1.0,
+        "kda": 2.59,
+        "mvps": 0,
+        "cum_avg_score": 9.23
+      },
+      {
+        "date": "20260413",
+        "games": 3,
+        "avg_score": 11.53,
+        "win_rate": 1.0,
+        "kda": 6.27,
+        "mvps": 0,
+        "cum_avg_score": 10.38
+      },
+      {
+        "date": "20260427",
+        "games": 5,
+        "avg_score": 6.94,
+        "win_rate": 0.4,
+        "kda": 1.59,
+        "mvps": 0,
+        "cum_avg_score": 8.82
+      },
+      {
+        "date": "20260508",
+        "games": 3,
+        "avg_score": 10.57,
+        "win_rate": 1.0,
+        "kda": 5.86,
+        "mvps": 1,
+        "cum_avg_score": 9.19
+      }
+    ]
+  },
+  {
+    "name": "卞成栋",
+    "series": [
+      {
+        "date": "20260601",
+        "games": 3,
+        "avg_score": 6.87,
+        "win_rate": 1.0,
+        "kda": 4.21,
+        "mvps": 0,
+        "cum_avg_score": 6.87
+      }
+    ]
+  },
+  {
+    "name": "帅b",
+    "series": [
+      {
+        "date": "20260409",
+        "games": 3,
+        "avg_score": 11.83,
+        "win_rate": 1.0,
+        "kda": 3.88,
+        "mvps": 2,
+        "cum_avg_score": 11.83
+      },
+      {
+        "date": "20260413",
+        "games": 3,
+        "avg_score": 12.33,
+        "win_rate": 1.0,
+        "kda": 3.18,
+        "mvps": 2,
+        "cum_avg_score": 12.08
+      },
+      {
+        "date": "20260420",
+        "games": 5,
+        "avg_score": 10.86,
+        "win_rate": 0.6,
+        "kda": 3.95,
+        "mvps": 1,
+        "cum_avg_score": 11.53
+      },
+      {
+        "date": "20260427",
+        "games": 5,
+        "avg_score": 10.34,
+        "win_rate": 0.4,
+        "kda": 3.3,
+        "mvps": 1,
+        "cum_avg_score": 11.16
+      },
+      {
+        "date": "20260508",
+        "games": 3,
+        "avg_score": 12.43,
+        "win_rate": 1.0,
+        "kda": 10.25,
+        "mvps": 2,
+        "cum_avg_score": 11.36
+      },
+      {
+        "date": "20260511",
+        "games": 3,
+        "avg_score": 8.4,
+        "win_rate": 0.0,
+        "kda": 2.0,
+        "mvps": 0,
+        "cum_avg_score": 10.95
+      },
+      {
+        "date": "20260518",
+        "games": 3,
+        "avg_score": 11.77,
+        "win_rate": 1.0,
+        "kda": 4.5,
+        "mvps": 0,
+        "cum_avg_score": 11.05
+      },
+      {
+        "date": "20260525",
+        "games": 3,
+        "avg_score": 9.73,
+        "win_rate": 1.0,
+        "kda": 3.58,
+        "mvps": 0,
+        "cum_avg_score": 10.91
+      },
+      {
+        "date": "20260601",
+        "games": 3,
+        "avg_score": 5.57,
+        "win_rate": 0.0,
+        "kda": 1.27,
+        "mvps": 0,
+        "cum_avg_score": 10.39
+      },
+      {
+        "date": "20260608",
+        "games": 3,
+        "avg_score": 11.17,
+        "win_rate": 1.0,
+        "kda": 4.5,
+        "mvps": 0,
+        "cum_avg_score": 10.46
+      },
+      {
+        "date": "20260610",
+        "games": 4,
+        "avg_score": 10.43,
+        "win_rate": 0.75,
+        "kda": 4.25,
+        "mvps": 1,
+        "cum_avg_score": 10.46
+      }
+    ]
+  },
+  {
+    "name": "张昊",
+    "series": [
+      {
+        "date": "20260409",
+        "games": 3,
+        "avg_score": 6.33,
+        "win_rate": 0.0,
+        "kda": 1.84,
+        "mvps": 0,
+        "cum_avg_score": 6.33
+      },
+      {
+        "date": "20260508",
+        "games": 3,
+        "avg_score": 6.43,
+        "win_rate": 1.0,
+        "kda": 2.71,
+        "mvps": 0,
+        "cum_avg_score": 6.38
+      },
+      {
+        "date": "20260511",
+        "games": 3,
+        "avg_score": 7.4,
+        "win_rate": 1.0,
+        "kda": 3.88,
+        "mvps": 0,
+        "cum_avg_score": 6.72
+      },
+      {
+        "date": "20260518",
+        "games": 3,
+        "avg_score": 6.1,
+        "win_rate": 0.0,
+        "kda": 1.14,
+        "mvps": 0,
+        "cum_avg_score": 6.57
+      },
+      {
+        "date": "20260601",
+        "games": 3,
+        "avg_score": 5.23,
+        "win_rate": 0.0,
+        "kda": 1.31,
+        "mvps": 0,
+        "cum_avg_score": 6.3
+      },
+      {
+        "date": "20260608",
+        "games": 3,
+        "avg_score": 7.0,
+        "win_rate": 1.0,
+        "kda": 5.17,
+        "mvps": 0,
+        "cum_avg_score": 6.42
+      },
+      {
+        "date": "20260610",
+        "games": 4,
+        "avg_score": 7.15,
+        "win_rate": 0.75,
+        "kda": 4.4,
+        "mvps": 0,
+        "cum_avg_score": 6.55
+      }
+    ]
+  },
+  {
+    "name": "老付",
+    "series": [
+      {
+        "date": "20260508",
+        "games": 3,
+        "avg_score": 6.9,
+        "win_rate": 0.0,
+        "kda": 1.06,
+        "mvps": 0,
+        "cum_avg_score": 6.9
+      }
+    ]
+  },
+  {
+    "name": "金金",
+    "series": [
+      {
+        "date": "20260409",
+        "games": 3,
+        "avg_score": 8.03,
+        "win_rate": 0.0,
+        "kda": 2.1,
+        "mvps": 0,
+        "cum_avg_score": 8.03
+      },
+      {
+        "date": "20260413",
+        "games": 3,
+        "avg_score": 8.1,
+        "win_rate": 0.0,
+        "kda": 1.95,
+        "mvps": 0,
+        "cum_avg_score": 8.06
+      },
+      {
+        "date": "20260420",
+        "games": 5,
+        "avg_score": 7.74,
+        "win_rate": 0.4,
+        "kda": 2.36,
+        "mvps": 0,
+        "cum_avg_score": 7.92
+      },
+      {
+        "date": "20260427",
+        "games": 5,
+        "avg_score": 8.62,
+        "win_rate": 0.4,
+        "kda": 1.61,
+        "mvps": 0,
+        "cum_avg_score": 8.14
+      },
+      {
+        "date": "20260508",
+        "games": 3,
+        "avg_score": 6.77,
+        "win_rate": 0.0,
+        "kda": 1.42,
+        "mvps": 0,
+        "cum_avg_score": 7.92
+      },
+      {
+        "date": "20260511",
+        "games": 3,
+        "avg_score": 6.53,
+        "win_rate": 0.0,
+        "kda": 1.17,
+        "mvps": 0,
+        "cum_avg_score": 7.73
+      },
+      {
+        "date": "20260525",
+        "games": 3,
+        "avg_score": 7.23,
+        "win_rate": 0.0,
+        "kda": 1.78,
+        "mvps": 0,
+        "cum_avg_score": 7.67
+      }
+    ]
+  },
+  {
+    "name": "铁锤",
+    "series": [
+      {
+        "date": "20260409",
+        "games": 3,
+        "avg_score": 7.87,
+        "win_rate": 1.0,
+        "kda": 3.75,
+        "mvps": 0,
+        "cum_avg_score": 7.87
+      },
+      {
+        "date": "20260413",
+        "games": 3,
+        "avg_score": 8.73,
+        "win_rate": 1.0,
+        "kda": 3.88,
+        "mvps": 0,
+        "cum_avg_score": 8.3
+      },
+      {
+        "date": "20260420",
+        "games": 5,
+        "avg_score": 5.74,
+        "win_rate": 0.6,
+        "kda": 2.35,
+        "mvps": 0,
+        "cum_avg_score": 7.14
+      },
+      {
+        "date": "20260427",
+        "games": 5,
+        "avg_score": 7.82,
+        "win_rate": 0.4,
+        "kda": 3.65,
+        "mvps": 0,
+        "cum_avg_score": 7.35
+      },
+      {
+        "date": "20260511",
+        "games": 3,
+        "avg_score": 6.5,
+        "win_rate": 0.0,
+        "kda": 2.3,
+        "mvps": 0,
+        "cum_avg_score": 7.22
+      },
+      {
+        "date": "20260518",
+        "games": 3,
+        "avg_score": 8.63,
+        "win_rate": 1.0,
+        "kda": 5.1,
+        "mvps": 0,
+        "cum_avg_score": 7.41
+      },
+      {
+        "date": "20260525",
+        "games": 3,
+        "avg_score": 6.07,
+        "win_rate": 0.0,
+        "kda": 2.29,
+        "mvps": 0,
+        "cum_avg_score": 7.25
+      },
+      {
+        "date": "20260608",
+        "games": 3,
+        "avg_score": 6.37,
+        "win_rate": 0.0,
+        "kda": 2.44,
+        "mvps": 0,
+        "cum_avg_score": 7.15
+      },
+      {
+        "date": "20260610",
+        "games": 4,
+        "avg_score": 6.55,
+        "win_rate": 0.25,
+        "kda": 3.44,
+        "mvps": 0,
+        "cum_avg_score": 7.08
+      }
+    ]
+  },
+  {
+    "name": "长杰",
+    "series": [
+      {
+        "date": "20260413",
+        "games": 3,
+        "avg_score": 10.17,
+        "win_rate": 0.0,
+        "kda": 1.62,
+        "mvps": 0,
+        "cum_avg_score": 10.17
+      },
+      {
+        "date": "20260420",
+        "games": 5,
+        "avg_score": 10.34,
+        "win_rate": 0.4,
+        "kda": 3.42,
+        "mvps": 2,
+        "cum_avg_score": 10.28
+      },
+      {
+        "date": "20260427",
+        "games": 5,
+        "avg_score": 9.6,
+        "win_rate": 0.4,
+        "kda": 2.74,
+        "mvps": 1,
+        "cum_avg_score": 10.02
+      },
+      {
+        "date": "20260508",
+        "games": 3,
+        "avg_score": 8.0,
+        "win_rate": 0.0,
+        "kda": 1.33,
+        "mvps": 0,
+        "cum_avg_score": 9.64
+      },
+      {
+        "date": "20260511",
+        "games": 3,
+        "avg_score": 9.67,
+        "win_rate": 0.0,
+        "kda": 2.21,
+        "mvps": 0,
+        "cum_avg_score": 9.64
+      },
+      {
+        "date": "20260518",
+        "games": 3,
+        "avg_score": 13.13,
+        "win_rate": 1.0,
+        "kda": 10.0,
+        "mvps": 2,
+        "cum_avg_score": 10.12
+      },
+      {
+        "date": "20260525",
+        "games": 3,
+        "avg_score": 13.37,
+        "win_rate": 1.0,
+        "kda": 7.62,
+        "mvps": 2,
+        "cum_avg_score": 10.51
+      },
+      {
+        "date": "20260601",
+        "games": 3,
+        "avg_score": 11.5,
+        "win_rate": 1.0,
+        "kda": 5.78,
+        "mvps": 1,
+        "cum_avg_score": 10.62
+      },
+      {
+        "date": "20260608",
+        "games": 3,
+        "avg_score": 9.17,
+        "win_rate": 0.0,
+        "kda": 2.21,
+        "mvps": 0,
+        "cum_avg_score": 10.48
+      },
+      {
+        "date": "20260610",
+        "games": 4,
+        "avg_score": 8.15,
+        "win_rate": 0.25,
+        "kda": 2.33,
+        "mvps": 0,
+        "cum_avg_score": 10.21
+      }
+    ]
+  },
+  {
+    "name": "阿水",
+    "series": [
+      {
+        "date": "20260409",
+        "games": 3,
+        "avg_score": 10.07,
+        "win_rate": 0.0,
+        "kda": 2.52,
+        "mvps": 0,
+        "cum_avg_score": 10.07
+      },
+      {
+        "date": "20260413",
+        "games": 3,
+        "avg_score": 8.1,
+        "win_rate": 0.0,
+        "kda": 2.44,
+        "mvps": 0,
+        "cum_avg_score": 9.08
+      },
+      {
+        "date": "20260420",
+        "games": 5,
+        "avg_score": 9.3,
+        "win_rate": 0.4,
+        "kda": 3.07,
+        "mvps": 0,
+        "cum_avg_score": 9.18
+      },
+      {
+        "date": "20260427",
+        "games": 5,
+        "avg_score": 12.12,
+        "win_rate": 0.6,
+        "kda": 5.15,
+        "mvps": 0,
+        "cum_avg_score": 10.1
+      },
+      {
+        "date": "20260508",
+        "games": 3,
+        "avg_score": 5.0,
+        "win_rate": 0.0,
+        "kda": 1.16,
+        "mvps": 0,
+        "cum_avg_score": 9.3
+      },
+      {
+        "date": "20260511",
+        "games": 3,
+        "avg_score": 11.37,
+        "win_rate": 1.0,
+        "kda": 7.0,
+        "mvps": 1,
+        "cum_avg_score": 9.58
+      },
+      {
+        "date": "20260518",
+        "games": 3,
+        "avg_score": 7.73,
+        "win_rate": 0.0,
+        "kda": 1.19,
+        "mvps": 0,
+        "cum_avg_score": 9.36
+      },
+      {
+        "date": "20260525",
+        "games": 3,
+        "avg_score": 8.03,
+        "win_rate": 0.0,
+        "kda": 1.17,
+        "mvps": 0,
+        "cum_avg_score": 9.21
+      },
+      {
+        "date": "20260601",
+        "games": 3,
+        "avg_score": 10.07,
+        "win_rate": 0.0,
+        "kda": 3.09,
+        "mvps": 0,
+        "cum_avg_score": 9.3
+      },
+      {
+        "date": "20260608",
+        "games": 3,
+        "avg_score": 11.77,
+        "win_rate": 1.0,
+        "kda": 5.08,
+        "mvps": 0,
+        "cum_avg_score": 9.52
+      },
+      {
+        "date": "20260610",
+        "games": 4,
+        "avg_score": 11.8,
+        "win_rate": 0.75,
+        "kda": 4.32,
+        "mvps": 1,
+        "cum_avg_score": 9.76
+      }
+    ]
+  },
+  {
+    "name": "马涛",
+    "series": [
+      {
+        "date": "20260420",
+        "games": 5,
+        "avg_score": 11.88,
+        "win_rate": 0.6,
+        "kda": 3.61,
+        "mvps": 2,
+        "cum_avg_score": 11.88
+      },
+      {
+        "date": "20260427",
+        "games": 5,
+        "avg_score": 7.24,
+        "win_rate": 0.6,
+        "kda": 2.03,
+        "mvps": 1,
+        "cum_avg_score": 9.56
+      },
+      {
+        "date": "20260508",
+        "games": 3,
+        "avg_score": 9.2,
+        "win_rate": 1.0,
+        "kda": 5.75,
+        "mvps": 0,
+        "cum_avg_score": 9.48
+      },
+      {
+        "date": "20260511",
+        "games": 3,
+        "avg_score": 13.0,
+        "win_rate": 1.0,
+        "kda": 6.89,
+        "mvps": 1,
+        "cum_avg_score": 10.14
+      },
+      {
+        "date": "20260518",
+        "games": 3,
+        "avg_score": 11.63,
+        "win_rate": 1.0,
+        "kda": 4.08,
+        "mvps": 0,
+        "cum_avg_score": 10.37
+      },
+      {
+        "date": "20260525",
+        "games": 3,
+        "avg_score": 7.8,
+        "win_rate": 0.0,
+        "kda": 1.67,
+        "mvps": 0,
+        "cum_avg_score": 10.02
+      },
+      {
+        "date": "20260601",
+        "games": 3,
+        "avg_score": 11.43,
+        "win_rate": 1.0,
+        "kda": 8.5,
+        "mvps": 1,
+        "cum_avg_score": 10.19
+      },
+      {
+        "date": "20260608",
+        "games": 3,
+        "avg_score": 7.27,
+        "win_rate": 0.0,
+        "kda": 1.41,
+        "mvps": 0,
+        "cum_avg_score": 9.88
+      },
+      {
+        "date": "20260610",
+        "games": 4,
+        "avg_score": 8.93,
+        "win_rate": 0.25,
+        "kda": 2.52,
+        "mvps": 0,
+        "cum_avg_score": 9.76
+      }
+    ]
+  },
+  {
+    "name": "高尚",
+    "series": [
+      {
+        "date": "20260409",
+        "games": 3,
+        "avg_score": 5.87,
+        "win_rate": 0.0,
+        "kda": 1.33,
+        "mvps": 0,
+        "cum_avg_score": 5.87
+      },
+      {
+        "date": "20260413",
+        "games": 3,
+        "avg_score": 4.9,
+        "win_rate": 0.0,
+        "kda": 1.17,
+        "mvps": 0,
+        "cum_avg_score": 5.39
+      },
+      {
+        "date": "20260420",
+        "games": 5,
+        "avg_score": 5.44,
+        "win_rate": 0.4,
+        "kda": 1.43,
+        "mvps": 0,
+        "cum_avg_score": 5.41
+      },
+      {
+        "date": "20260518",
+        "games": 3,
+        "avg_score": 9.13,
+        "win_rate": 0.0,
+        "kda": 1.36,
+        "mvps": 0,
+        "cum_avg_score": 6.21
+      },
+      {
+        "date": "20260525",
+        "games": 3,
+        "avg_score": 8.0,
+        "win_rate": 1.0,
+        "kda": 3.54,
+        "mvps": 0,
+        "cum_avg_score": 6.52
+      },
+      {
+        "date": "20260601",
+        "games": 3,
+        "avg_score": 5.9,
+        "win_rate": 0.0,
+        "kda": 1.56,
+        "mvps": 0,
+        "cum_avg_score": 6.43
+      },
+      {
+        "date": "20260608",
+        "games": 3,
+        "avg_score": 8.77,
+        "win_rate": 1.0,
+        "kda": 6.2,
+        "mvps": 0,
+        "cum_avg_score": 6.74
+      },
+      {
+        "date": "20260610",
+        "games": 4,
+        "avg_score": 8.62,
+        "win_rate": 0.75,
+        "kda": 5.69,
+        "mvps": 0,
+        "cum_avg_score": 7.01
+      }
+    ]
+  }
+]

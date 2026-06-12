@@ -1,0 +1,358 @@
+{
+  "periods": [
+    {
+      "name": "前期",
+      "dates": [
+        "20260409",
+        "20260413",
+        "20260420",
+        "20260427",
+        "20260508"
+      ],
+      "label": "20260409 ~ 20260508"
+    },
+    {
+      "name": "后期",
+      "dates": [
+        "20260511",
+        "20260518",
+        "20260525",
+        "20260601",
+        "20260608",
+        "20260610"
+      ],
+      "label": "20260511 ~ 20260610"
+    }
+  ],
+  "player_comparison": [
+    {
+      "name": "高尚",
+      "early": {
+        "games": 11,
+        "avg_score": 5.41,
+        "win_rate": 0.182,
+        "kda": 1.33,
+        "mvps": 0
+      },
+      "late": {
+        "games": 16,
+        "avg_score": 8.12,
+        "win_rate": 0.562,
+        "kda": 3.42,
+        "mvps": 0
+      },
+      "delta": {
+        "score": 2.71,
+        "win_rate": 0.381,
+        "kda": 2.1
+      }
+    },
+    {
+      "name": "长杰",
+      "early": {
+        "games": 16,
+        "avg_score": 9.64,
+        "win_rate": 0.25,
+        "kda": 2.38,
+        "mvps": 3
+      },
+      "late": {
+        "games": 19,
+        "avg_score": 10.69,
+        "win_rate": 0.526,
+        "kda": 3.56,
+        "mvps": 5
+      },
+      "delta": {
+        "score": 1.05,
+        "win_rate": 0.276,
+        "kda": 1.19
+      }
+    },
+    {
+      "name": "阿水",
+      "early": {
+        "games": 19,
+        "avg_score": 9.29,
+        "win_rate": 0.263,
+        "kda": 2.74,
+        "mvps": 0
+      },
+      "late": {
+        "games": 19,
+        "avg_score": 10.22,
+        "win_rate": 0.474,
+        "kda": 3.2,
+        "mvps": 2
+      },
+      "delta": {
+        "score": 0.92,
+        "win_rate": 0.211,
+        "kda": 0.45
+      }
+    },
+    {
+      "name": "马涛",
+      "early": {
+        "games": 13,
+        "avg_score": 9.48,
+        "win_rate": 0.692,
+        "kda": 2.98,
+        "mvps": 3
+      },
+      "late": {
+        "games": 19,
+        "avg_score": 9.95,
+        "win_rate": 0.526,
+        "kda": 3.09,
+        "mvps": 2
+      },
+      "delta": {
+        "score": 0.48,
+        "win_rate": -0.166,
+        "kda": 0.1
+      }
+    },
+    {
+      "name": "冬前",
+      "early": {
+        "games": 19,
+        "avg_score": 9.23,
+        "win_rate": 0.263,
+        "kda": 2.57,
+        "mvps": 1
+      },
+      "late": {
+        "games": 19,
+        "avg_score": 9.57,
+        "win_rate": 0.474,
+        "kda": 2.5,
+        "mvps": 4
+      },
+      "delta": {
+        "score": 0.34,
+        "win_rate": 0.211,
+        "kda": -0.08
+      }
+    },
+    {
+      "name": "ds5",
+      "early": {
+        "games": 19,
+        "avg_score": 10.18,
+        "win_rate": 0.789,
+        "kda": 3.43,
+        "mvps": 3
+      },
+      "late": {
+        "games": 19,
+        "avg_score": 10.52,
+        "win_rate": 0.526,
+        "kda": 2.91,
+        "mvps": 4
+      },
+      "delta": {
+        "score": 0.34,
+        "win_rate": -0.263,
+        "kda": -0.52
+      }
+    },
+    {
+      "name": "张昊",
+      "early": {
+        "games": 6,
+        "avg_score": 6.38,
+        "win_rate": 0.5,
+        "kda": 2.21,
+        "mvps": 0
+      },
+      "late": {
+        "games": 16,
+        "avg_score": 6.61,
+        "win_rate": 0.562,
+        "kda": 2.95,
+        "mvps": 0
+      },
+      "delta": {
+        "score": 0.23,
+        "win_rate": 0.062,
+        "kda": 0.74
+      }
+    },
+    {
+      "name": "俊峰",
+      "early": {
+        "games": 16,
+        "avg_score": 7.9,
+        "win_rate": 0.75,
+        "kda": 2.84,
+        "mvps": 0
+      },
+      "late": {
+        "games": 19,
+        "avg_score": 7.62,
+        "win_rate": 0.526,
+        "kda": 2.3,
+        "mvps": 1
+      },
+      "delta": {
+        "score": -0.28,
+        "win_rate": -0.224,
+        "kda": -0.54
+      }
+    },
+    {
+      "name": "铁锤",
+      "early": {
+        "games": 16,
+        "avg_score": 7.35,
+        "win_rate": 0.688,
+        "kda": 3.2,
+        "mvps": 0
+      },
+      "late": {
+        "games": 16,
+        "avg_score": 6.81,
+        "win_rate": 0.25,
+        "kda": 2.91,
+        "mvps": 0
+      },
+      "delta": {
+        "score": -0.54,
+        "win_rate": -0.438,
+        "kda": -0.29
+      }
+    },
+    {
+      "name": "金金",
+      "early": {
+        "games": 19,
+        "avg_score": 7.92,
+        "win_rate": 0.211,
+        "kda": 1.93,
+        "mvps": 0
+      },
+      "late": {
+        "games": 6,
+        "avg_score": 6.88,
+        "win_rate": 0.0,
+        "kda": 1.4,
+        "mvps": 0
+      },
+      "delta": {
+        "score": -1.04,
+        "win_rate": -0.211,
+        "kda": -0.52
+      }
+    },
+    {
+      "name": "帅b",
+      "early": {
+        "games": 19,
+        "avg_score": 11.36,
+        "win_rate": 0.737,
+        "kda": 3.92,
+        "mvps": 8
+      },
+      "late": {
+        "games": 19,
+        "avg_score": 9.56,
+        "win_rate": 0.632,
+        "kda": 3.08,
+        "mvps": 1
+      },
+      "delta": {
+        "score": -1.8,
+        "win_rate": -0.105,
+        "kda": -0.84
+      }
+    }
+  ],
+  "position_comparison": [
+    {
+      "position": "上单",
+      "early": {
+        "games": 38,
+        "avg_score": 8.72,
+        "win_rate": 0.5
+      },
+      "late": {
+        "games": 38,
+        "avg_score": 9.22,
+        "win_rate": 0.5
+      },
+      "delta": {
+        "score": 0.5,
+        "win_rate": 0.0
+      }
+    },
+    {
+      "position": "中单",
+      "early": {
+        "games": 38,
+        "avg_score": 8.81,
+        "win_rate": 0.5
+      },
+      "late": {
+        "games": 38,
+        "avg_score": 8.91,
+        "win_rate": 0.5
+      },
+      "delta": {
+        "score": 0.1,
+        "win_rate": 0.0
+      }
+    },
+    {
+      "position": "射手",
+      "early": {
+        "games": 38,
+        "avg_score": 9.9,
+        "win_rate": 0.5
+      },
+      "late": {
+        "games": 38,
+        "avg_score": 9.98,
+        "win_rate": 0.5
+      },
+      "delta": {
+        "score": 0.07,
+        "win_rate": 0.0
+      }
+    },
+    {
+      "position": "辅助",
+      "early": {
+        "games": 38,
+        "avg_score": 6.84,
+        "win_rate": 0.5
+      },
+      "late": {
+        "games": 38,
+        "avg_score": 6.78,
+        "win_rate": 0.5
+      },
+      "delta": {
+        "score": -0.06,
+        "win_rate": 0.0
+      }
+    },
+    {
+      "position": "打野",
+      "early": {
+        "games": 38,
+        "avg_score": 9.94,
+        "win_rate": 0.5
+      },
+      "late": {
+        "games": 38,
+        "avg_score": 9.88,
+        "win_rate": 0.5
+      },
+      "delta": {
+        "score": -0.06,
+        "win_rate": 0.0
+      }
+    }
+  ]
+}

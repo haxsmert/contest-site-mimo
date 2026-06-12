@@ -1,0 +1,3536 @@
+{
+  "player_synergy": [
+    {
+      "player1": "ds5",
+      "player2": "帅b",
+      "games": 5,
+      "wins": 5,
+      "win_rate": 1.0
+    },
+    {
+      "player1": "ds5",
+      "player2": "凌浩",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0
+    },
+    {
+      "player1": "帅b",
+      "player2": "马涛",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0
+    },
+    {
+      "player1": "俊峰",
+      "player2": "凌浩",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "player1": "张昊",
+      "player2": "马涛",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "player1": "俊峰",
+      "player2": "帅b",
+      "games": 6,
+      "wins": 5,
+      "win_rate": 0.833
+    },
+    {
+      "player1": "ds5",
+      "player2": "俊峰",
+      "games": 8,
+      "wins": 6,
+      "win_rate": 0.75
+    },
+    {
+      "player1": "凌浩",
+      "player2": "帅b",
+      "games": 4,
+      "wins": 3,
+      "win_rate": 0.75
+    },
+    {
+      "player1": "帅b",
+      "player2": "张昊",
+      "games": 4,
+      "wins": 3,
+      "win_rate": 0.75
+    },
+    {
+      "player1": "帅b",
+      "player2": "高尚",
+      "games": 4,
+      "wins": 3,
+      "win_rate": 0.75
+    },
+    {
+      "player1": "ds5",
+      "player2": "马涛",
+      "games": 7,
+      "wins": 5,
+      "win_rate": 0.714
+    },
+    {
+      "player1": "帅b",
+      "player2": "铁锤",
+      "games": 6,
+      "wins": 4,
+      "win_rate": 0.667
+    },
+    {
+      "player1": "俊峰",
+      "player2": "马涛",
+      "games": 6,
+      "wins": 4,
+      "win_rate": 0.667
+    },
+    {
+      "player1": "凌浩",
+      "player2": "铁锤",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "player1": "ds5",
+      "player2": "冬前",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "player1": "ds5",
+      "player2": "阿水",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "player1": "冬前",
+      "player2": "马涛",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "player1": "阿水",
+      "player2": "马涛",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "player1": "ds5",
+      "player2": "张昊",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "player1": "冬前",
+      "player2": "帅b",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "player1": "帅b",
+      "player2": "阿水",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "player1": "ds5",
+      "player2": "铁锤",
+      "games": 5,
+      "wins": 3,
+      "win_rate": 0.6
+    },
+    {
+      "player1": "俊峰",
+      "player2": "铁锤",
+      "games": 7,
+      "wins": 4,
+      "win_rate": 0.571
+    },
+    {
+      "player1": "冬前",
+      "player2": "张昊",
+      "games": 6,
+      "wins": 3,
+      "win_rate": 0.5
+    },
+    {
+      "player1": "张昊",
+      "player2": "阿水",
+      "games": 6,
+      "wins": 3,
+      "win_rate": 0.5
+    },
+    {
+      "player1": "俊峰",
+      "player2": "长杰",
+      "games": 6,
+      "wins": 3,
+      "win_rate": 0.5
+    },
+    {
+      "player1": "帅b",
+      "player2": "长杰",
+      "games": 4,
+      "wins": 2,
+      "win_rate": 0.5
+    },
+    {
+      "player1": "长杰",
+      "player2": "马涛",
+      "games": 4,
+      "wins": 2,
+      "win_rate": 0.5
+    },
+    {
+      "player1": "ds5",
+      "player2": "长杰",
+      "games": 4,
+      "wins": 2,
+      "win_rate": 0.5
+    },
+    {
+      "player1": "ds5",
+      "player2": "高尚",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "player1": "张昊",
+      "player2": "高尚",
+      "games": 5,
+      "wins": 2,
+      "win_rate": 0.4
+    },
+    {
+      "player1": "铁锤",
+      "player2": "马涛",
+      "games": 5,
+      "wins": 2,
+      "win_rate": 0.4
+    },
+    {
+      "player1": "冬前",
+      "player2": "阿水",
+      "games": 11,
+      "wins": 4,
+      "win_rate": 0.364
+    },
+    {
+      "player1": "长杰",
+      "player2": "高尚",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "player1": "冬前",
+      "player2": "高尚",
+      "games": 7,
+      "wins": 2,
+      "win_rate": 0.286
+    },
+    {
+      "player1": "阿水",
+      "player2": "高尚",
+      "games": 7,
+      "wins": 2,
+      "win_rate": 0.286
+    },
+    {
+      "player1": "铁锤",
+      "player2": "长杰",
+      "games": 5,
+      "wins": 1,
+      "win_rate": 0.2
+    },
+    {
+      "player1": "冬前",
+      "player2": "金金",
+      "games": 5,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "player1": "金金",
+      "player2": "阿水",
+      "games": 5,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "player1": "金金",
+      "player2": "长杰",
+      "games": 5,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "player1": "金金",
+      "player2": "高尚",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "player1": "冬前",
+      "player2": "长杰",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "player1": "长杰",
+      "player2": "阿水",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "player1": "金金",
+      "player2": "铁锤",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "player1": "帅b",
+      "player2": "金金",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    }
+  ],
+  "hero_synergy": [
+    {
+      "hero1": "皮城女警",
+      "hero2": "龙血武姬",
+      "games": 4,
+      "wins": 4,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "冰霜女巫",
+      "hero2": "赏金猎人",
+      "games": 4,
+      "wins": 4,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "龙血武姬",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "暴走萝莉",
+      "hero2": "龙血武姬",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "熔岩巨兽",
+      "hero2": "龙血武姬",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "虚空掠夺者",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "熔岩巨兽",
+      "hero2": "虚空掠夺者",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "冰霜女巫",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "冰霜女巫",
+      "hero2": "熔岩巨兽",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "熔岩巨兽",
+      "hero2": "赏金猎人",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "皮城女警",
+      "hero2": "赏金猎人",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "牛头酋长",
+      "hero2": "赏金猎人",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "赏金猎人",
+      "hero2": "铁铠冥魂",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "熔岩巨兽",
+      "hero2": "虚空遁地兽",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "暮光之眼",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "离群之刺",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "德玛西亚之力",
+      "hero2": "疾风剑豪",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "暮光之眼",
+      "hero2": "熔岩巨兽",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "暮光之眼",
+      "hero2": "皮城女警",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "暮光之眼",
+      "hero2": "龙血武姬",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "暴走萝莉",
+      "hero2": "离群之刺",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "熔岩巨兽",
+      "hero2": "离群之刺",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "皮城女警",
+      "hero2": "离群之刺",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "离群之刺",
+      "hero2": "龙血武姬",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "虚空掠夺者",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "龙血武姬",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "龙血武姬",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "虚空掠夺者",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "暴走萝莉",
+      "hero2": "虚空掠夺者",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "皮城女警",
+      "hero2": "虚空掠夺者",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "荆棘之兴",
+      "hero2": "虚空掠夺者",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "荆棘之兴",
+      "hero2": "龙血武姬",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "虚空掠夺者",
+      "hero2": "龙血武姬",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "冰霜女巫",
+      "hero2": "堕落天使",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "冰霜女巫",
+      "hero2": "皮城女警",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "冰霜女巫",
+      "hero2": "荆棘之兴",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "冰霜女巫",
+      "hero2": "虚空掠夺者",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "冰霜女巫",
+      "hero2": "解脱者",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "异画师",
+      "hero2": "时间刺客",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "异画师",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "异画师",
+      "hero2": "龙血武姬",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "时间刺客",
+      "hero2": "皮城女警",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "时间刺客",
+      "hero2": "虚空掠夺者",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "时间刺客",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "时间刺客",
+      "hero2": "龙血武姬",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "殇之木乃伊",
+      "hero2": "皮城女警",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "荆棘之兴",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "赏金猎人",
+      "hero2": "龙血武姬",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "冰霜女巫",
+      "hero2": "永恒梦魇",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "冰霜女巫",
+      "hero2": "牛头酋长",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "冰霜女巫",
+      "hero2": "铁铠冥魂",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "封魔剑魂",
+      "hero2": "沙漠死神",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "封魔剑魂",
+      "hero2": "虚空掠夺者",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "沙漠死神",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "永恒梦魇",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "牛头酋长",
+      "hero2": "虚空掠夺者",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "牛头酋长",
+      "hero2": "远古巫灵",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "虚空掠夺者",
+      "hero2": "铁铠冥魂",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "远古巫灵",
+      "hero2": "铁铠冥魂",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "时间刺客",
+      "hero2": "暴走萝莉",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "时间刺客",
+      "hero2": "牛头酋长",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "时间刺客",
+      "hero2": "铁铠冥魂",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "暴走萝莉",
+      "hero2": "牛头酋长",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "不屈之枪",
+      "hero2": "虚空之女",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "封魔剑魂",
+      "hero2": "弗雷尔卓德之心",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "武器大师",
+      "hero2": "牛头酋长",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "武器大师",
+      "hero2": "铁铠冥魂",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "熔岩巨兽",
+      "hero2": "牛头酋长",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "熔岩巨兽",
+      "hero2": "虚空之女",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "熔岩巨兽",
+      "hero2": "铁铠冥魂",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "冰霜女巫",
+      "hero2": "武器大师",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "冰霜女巫",
+      "hero2": "虚空遁地兽",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "暗黑元首",
+      "hero2": "虚空遁地兽",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "武器大师",
+      "hero2": "虚空遁地兽",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "永恒梦魇",
+      "hero2": "虚空遁地兽",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "虚空遁地兽",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "圣枪游侠",
+      "hero2": "熔岩巨兽",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "圣枪游侠",
+      "hero2": "虚空遁地兽",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "皎月女神",
+      "hero2": "虚空之女",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "北地之怒",
+      "hero2": "无畏战车",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "北地之怒",
+      "hero2": "沙漠死神",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "北地之怒",
+      "hero2": "深海泰坦",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "北地之怒",
+      "hero2": "爆破鬼才",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "无畏战车",
+      "hero2": "沙漠死神",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "无畏战车",
+      "hero2": "爆破鬼才",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "沙漠死神",
+      "hero2": "深海泰坦",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "沙漠死神",
+      "hero2": "爆破鬼才",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "深海泰坦",
+      "hero2": "爆破鬼才",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "皮城女警",
+      "games": 5,
+      "wins": 4,
+      "win_rate": 0.8
+    },
+    {
+      "hero1": "武器大师",
+      "hero2": "熔岩巨兽",
+      "games": 5,
+      "wins": 4,
+      "win_rate": 0.8
+    },
+    {
+      "hero1": "熔岩巨兽",
+      "hero2": "皮城女警",
+      "games": 5,
+      "wins": 4,
+      "win_rate": 0.8
+    },
+    {
+      "hero1": "牛头酋长",
+      "hero2": "铁铠冥魂",
+      "games": 5,
+      "wins": 4,
+      "win_rate": 0.8
+    },
+    {
+      "hero1": "暴走萝莉",
+      "hero2": "熔岩巨兽",
+      "games": 4,
+      "wins": 3,
+      "win_rate": 0.75
+    },
+    {
+      "hero1": "暴走萝莉",
+      "hero2": "皮城女警",
+      "games": 4,
+      "wins": 3,
+      "win_rate": 0.75
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "皮城女警",
+      "games": 4,
+      "wins": 3,
+      "win_rate": 0.75
+    },
+    {
+      "hero1": "皮城女警",
+      "hero2": "荆棘之兴",
+      "games": 4,
+      "wins": 3,
+      "win_rate": 0.75
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "熔岩巨兽",
+      "games": 6,
+      "wins": 4,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "暴走萝莉",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "暴走萝莉",
+      "hero2": "武器大师",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "武器大师",
+      "hero2": "皮城女警",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "虚空掠夺者",
+      "hero2": "赏金猎人",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "仙灵女巫",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "赏金猎人",
+      "hero2": "远古巫灵",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "解脱者",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "奥术先驱",
+      "hero2": "殇之木乃伊",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "奥术先驱",
+      "hero2": "皮城女警",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "异画师",
+      "hero2": "皮城女警",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "时间刺客",
+      "hero2": "熔岩巨兽",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "熔岩巨兽",
+      "hero2": "解脱者",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "皮城女警",
+      "hero2": "解脱者",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "荆棘之兴",
+      "hero2": "解脱者",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "封魔剑魂",
+      "hero2": "牛头酋长",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "封魔剑魂",
+      "hero2": "铁铠冥魂",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "潮汐海灵",
+      "hero2": "牛头酋长",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "永恒梦魇",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "暴走萝莉",
+      "hero2": "铁铠冥魂",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "潮汐海灵",
+      "hero2": "赏金猎人",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "无畏战车",
+      "hero2": "深海泰坦",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "暗黑元首",
+      "hero2": "永恒梦魇",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "暗黑元首",
+      "hero2": "熔岩巨兽",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "熔岩巨兽",
+      "games": 5,
+      "wins": 3,
+      "win_rate": 0.6
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "堕落天使",
+      "games": 5,
+      "wins": 3,
+      "win_rate": 0.6
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "熔岩巨兽",
+      "games": 5,
+      "wins": 3,
+      "win_rate": 0.6
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "赏金猎人",
+      "games": 5,
+      "wins": 3,
+      "win_rate": 0.6
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "荆棘之兴",
+      "games": 6,
+      "wins": 3,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "荆棘之兴",
+      "games": 6,
+      "wins": 3,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "熔岩巨兽",
+      "hero2": "荆棘之兴",
+      "games": 6,
+      "wins": 3,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "武器大师",
+      "games": 4,
+      "wins": 2,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "堕落天使",
+      "games": 4,
+      "wins": 2,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "皮城女警",
+      "games": 4,
+      "wins": 2,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "荆棘之兴",
+      "games": 4,
+      "wins": 2,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "解脱者",
+      "games": 4,
+      "wins": 2,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "武器大师",
+      "hero2": "赏金猎人",
+      "games": 4,
+      "wins": 2,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "潮汐海灵",
+      "hero2": "铁铠冥魂",
+      "games": 4,
+      "wins": 2,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "永恒梦魇",
+      "hero2": "熔岩巨兽",
+      "games": 4,
+      "wins": 2,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "探险家",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "探险家",
+      "hero2": "熔岩巨兽",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "熔岩巨兽",
+      "hero2": "虚空行者",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "圣枪游侠",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "不屈之枪",
+      "hero2": "不破之誓",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "不屈之枪",
+      "hero2": "百裂冥犬",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "不屈之枪",
+      "hero2": "虚空掠夺者",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "不破之誓",
+      "hero2": "百裂冥犬",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "不破之誓",
+      "hero2": "虚空掠夺者",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "圣枪游侠",
+      "hero2": "河流之王",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "圣枪游侠",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "百裂冥犬",
+      "hero2": "虚空掠夺者",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "虚空掠夺者",
+      "hero2": "解脱者",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "虚空掠夺者",
+      "hero2": "诺克萨斯之手",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "诺克萨斯之手",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "暴走萝莉",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "暴走萝莉",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "暴走萝莉",
+      "hero2": "荆棘之兴",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "齐天大圣",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "远古巫灵",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "远古巫灵",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "河流之王",
+      "hero2": "齐天大圣",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "异画师",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "殇之木乃伊",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "解脱者",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "异画师",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "时间刺客",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "奥术先驱",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "异画师",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "殇之木乃伊",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "奥术先驱",
+      "hero2": "熔岩巨兽",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "奥术先驱",
+      "hero2": "荆棘之兴",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "异画师",
+      "hero2": "熔岩巨兽",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "异画师",
+      "hero2": "荆棘之兴",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "异画师",
+      "hero2": "解脱者",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "时间刺客",
+      "hero2": "荆棘之兴",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "殇之木乃伊",
+      "hero2": "熔岩巨兽",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "殇之木乃伊",
+      "hero2": "荆棘之兴",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "虚空遁地兽",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "双界灵兔",
+      "hero2": "封魔剑魂",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "双界灵兔",
+      "hero2": "爆破鬼才",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "封魔剑魂",
+      "hero2": "战争女神",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "封魔剑魂",
+      "hero2": "暗夜猎手",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "封魔剑魂",
+      "hero2": "爆破鬼才",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "封魔剑魂",
+      "hero2": "疾风剑豪",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "封魔剑魂",
+      "hero2": "祖安狂人",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "封魔剑魂",
+      "hero2": "诺克萨斯之手",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "异画师",
+      "hero2": "潮汐海灵",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "异画师",
+      "hero2": "牛头酋长",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "异画师",
+      "hero2": "铁铠冥魂",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "爆破鬼才",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "牛头酋长",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "疾风剑豪",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "诺克萨斯之手",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "铁铠冥魂",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "暗夜猎手",
+      "hero2": "疾风剑豪",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "暗夜猎手",
+      "hero2": "铁铠冥魂",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "潮汐海灵",
+      "hero2": "虚空遁地兽",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "牛头酋长",
+      "hero2": "疾风剑豪",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "牛头酋长",
+      "hero2": "祖安狂人",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "牛头酋长",
+      "hero2": "虚空遁地兽",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "疾风剑豪",
+      "hero2": "诺克萨斯之手",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "疾风剑豪",
+      "hero2": "铁铠冥魂",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "虚空遁地兽",
+      "hero2": "铁铠冥魂",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "诺克萨斯之手",
+      "hero2": "铁铠冥魂",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "含羞蓓蕾",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "含羞蓓蕾",
+      "hero2": "瘟疫之源",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "永恒梦魇",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "瘟疫之源",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "暗夜猎手",
+      "hero2": "瘟疫之源",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "永恒梦魇",
+      "hero2": "瘟疫之源",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "瘟疫之源",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "异画师",
+      "hero2": "暴走萝莉",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "时间刺客",
+      "hero2": "潮汐海灵",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "暴走萝莉",
+      "hero2": "潮汐海灵",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "牛头酋长",
+      "hero2": "皮城女警",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "无畏战车",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "深海泰坦",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "武器大师",
+      "hero2": "潮汐海灵",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "深海泰坦",
+      "hero2": "潮汐海灵",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "深海泰坦",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "不破之誓",
+      "hero2": "时间刺客",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "不破之誓",
+      "hero2": "熔岩巨兽",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "弗雷尔卓德之心",
+      "hero2": "暴走萝莉",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "弗雷尔卓德之心",
+      "hero2": "祖安狂人",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "弗雷尔卓德之心",
+      "hero2": "铁铠冥魂",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "暴走萝莉",
+      "hero2": "祖安狂人",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "暗黑元首",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "永恒梦魇",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "暗黑元首",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "永恒梦魇",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "暗黑元首",
+      "hero2": "荆棘之兴",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "暗黑元首",
+      "hero2": "齐天大圣",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "熔岩巨兽",
+      "hero2": "逆羽",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "奥术先驱",
+      "hero2": "寒冰射手",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "奥术先驱",
+      "hero2": "弗雷尔卓德之心",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "寒冰射手",
+      "hero2": "弗雷尔卓德之心",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "潮汐海灵",
+      "hero2": "逆羽",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "逆羽",
+      "hero2": "铁铠冥魂",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "亡灵战神",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "皎月女神",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "河流之王",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "皎月女神",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "河流之王",
+      "hero2": "皎月女神",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "圣枪游侠",
+      "hero2": "武器大师",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "圣枪游侠",
+      "hero2": "深海泰坦",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "深海泰坦",
+      "hero2": "虚空先知",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "潮汐海灵",
+      "hero2": "熔岩巨兽",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "牛头酋长",
+      "hero2": "虚空先知",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5
+    },
+    {
+      "hero1": "解脱者",
+      "hero2": "赏金猎人",
+      "games": 5,
+      "wins": 2,
+      "win_rate": 0.4
+    },
+    {
+      "hero1": "圣枪游侠",
+      "hero2": "虚空先知",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "虚空先知",
+      "hero2": "赏金猎人",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "战争女神",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "赏金猎人",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "武器大师",
+      "hero2": "百裂冥犬",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "武器大师",
+      "hero2": "虚空先知",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "奥术先驱",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "暗夜猎手",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "暗夜猎手",
+      "hero2": "牛头酋长",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "暗夜猎手",
+      "hero2": "诺克萨斯之手",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "牛头酋长",
+      "hero2": "诺克萨斯之手",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "祖安狂人",
+      "hero2": "铁铠冥魂",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "暗夜猎手",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "暗夜猎手",
+      "hero2": "赏金猎人",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "齐天大圣",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "武器大师",
+      "hero2": "荆棘之兴",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "武器大师",
+      "hero2": "深海泰坦",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "永恒梦魇",
+      "hero2": "荆棘之兴",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "永恒梦魇",
+      "hero2": "齐天大圣",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "河流之王",
+      "games": 4,
+      "wins": 1,
+      "win_rate": 0.25
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "武器大师",
+      "games": 4,
+      "wins": 1,
+      "win_rate": 0.25
+    },
+    {
+      "hero1": "武器大师",
+      "hero2": "解脱者",
+      "games": 4,
+      "wins": 1,
+      "win_rate": 0.25
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "瘟疫之源",
+      "games": 4,
+      "wins": 1,
+      "win_rate": 0.25
+    },
+    {
+      "hero1": "熔岩巨兽",
+      "hero2": "齐天大圣",
+      "games": 4,
+      "wins": 1,
+      "win_rate": 0.25
+    },
+    {
+      "hero1": "正义巨像",
+      "hero2": "解脱者",
+      "games": 4,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "正义巨像",
+      "hero2": "赏金猎人",
+      "games": 4,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "暗夜猎手",
+      "hero2": "符文法师",
+      "games": 4,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "暗夜猎手",
+      "hero2": "纳祖芒荣耀",
+      "games": 4,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "符文法师",
+      "hero2": "纳祖芒荣耀",
+      "games": 4,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "正义巨像",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "虚空先知",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "诺克萨斯之手",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "正义巨像",
+      "hero2": "百裂冥犬",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "河流之王",
+      "hero2": "虚空先知",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "百裂冥犬",
+      "hero2": "解脱者",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "百裂冥犬",
+      "hero2": "赏金猎人",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "诺克萨斯统领",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "正义巨像",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "齐天大圣",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "戏命师",
+      "hero2": "战争女神",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "正义巨像",
+      "hero2": "武器大师",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "德邦总管",
+      "hero2": "符文法师",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "潮汐海灵",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "暗夜猎手",
+      "hero2": "正义巨像",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "正义巨像",
+      "hero2": "符文法师",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "正义巨像",
+      "hero2": "纳祖芒荣耀",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "荆棘之兴",
+      "hero2": "齐天大圣",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "百裂冥犬",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "解脱者",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "不破之誓",
+      "hero2": "曙光女神",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "曙光女神",
+      "hero2": "正义巨像",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "曙光女神",
+      "hero2": "海兽祭司",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "曙光女神",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "正义巨像",
+      "hero2": "河流之王",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "正义巨像",
+      "hero2": "海兽祭司",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "正义巨像",
+      "hero2": "虚空先知",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "河流之王",
+      "hero2": "百裂冥犬",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "河流之王",
+      "hero2": "解脱者",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "河流之王",
+      "hero2": "诺克萨斯之手",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "河流之王",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "海兽祭司",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "百裂冥犬",
+      "hero2": "虚空先知",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "虚空先知",
+      "hero2": "解脱者",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "虚空先知",
+      "hero2": "诺克萨斯之手",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "戏命师",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "战争女神",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "虚空先知",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "戏命师",
+      "hero2": "正义巨像",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "戏命师",
+      "hero2": "武器大师",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "戏命师",
+      "hero2": "百裂冥犬",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "戏命师",
+      "hero2": "解脱者",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "戏命师",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "正义巨像",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "武器大师",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "百裂冥犬",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "解脱者",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "齐天大圣",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "正义巨像",
+      "hero2": "诺克萨斯统领",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "正义巨像",
+      "hero2": "齐天大圣",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "武器大师",
+      "hero2": "齐天大圣",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "河流之王",
+      "hero2": "诺克萨斯统领",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "虚空先知",
+      "hero2": "诺克萨斯统领",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "解脱者",
+      "hero2": "齐天大圣",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "暗夜猎手",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "潮汐海灵",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "牛头酋长",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "祖安狂人",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "铁铠冥魂",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "异画师",
+      "hero2": "德邦总管",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "异画师",
+      "hero2": "暗夜猎手",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "异画师",
+      "hero2": "符文法师",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "异画师",
+      "hero2": "纳祖芒荣耀",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "德邦总管",
+      "hero2": "暗夜猎手",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "德邦总管",
+      "hero2": "纳祖芒荣耀",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "戏命师",
+      "hero2": "暗夜猎手",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "戏命师",
+      "hero2": "潮汐海灵",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "戏命师",
+      "hero2": "符文法师",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "戏命师",
+      "hero2": "纳祖芒荣耀",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "符文法师",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "战争女神",
+      "hero2": "纳祖芒荣耀",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "暗夜猎手",
+      "hero2": "潮汐海灵",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "潮汐海灵",
+      "hero2": "祖安狂人",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "潮汐海灵",
+      "hero2": "符文法师",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "潮汐海灵",
+      "hero2": "纳祖芒荣耀",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "德邦总管",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "暗夜猎手",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "亡灵战神",
+      "hero2": "符文法师",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "符文法师",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "纳祖芒荣耀",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "德邦总管",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "符文法师",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "堕落天使",
+      "hero2": "齐天大圣",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "德邦总管",
+      "hero2": "熔岩巨兽",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "德邦总管",
+      "hero2": "荆棘之兴",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "德邦总管",
+      "hero2": "齐天大圣",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "暗夜猎手",
+      "hero2": "武器大师",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "暗夜猎手",
+      "hero2": "皮城女警",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "暗夜猎手",
+      "hero2": "解脱者",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "暴走萝莉",
+      "hero2": "正义巨像",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "暴走萝莉",
+      "hero2": "破败之王",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "正义巨像",
+      "hero2": "破败之王",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "武器大师",
+      "hero2": "符文法师",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "武器大师",
+      "hero2": "纳祖芒荣耀",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "熔岩巨兽",
+      "hero2": "符文法师",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "符文法师",
+      "hero2": "荆棘之兴",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "符文法师",
+      "hero2": "解脱者",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "符文法师",
+      "hero2": "齐天大圣",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "纳祖芒荣耀",
+      "hero2": "解脱者",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "正义巨像",
+      "hero2": "潮汐海灵",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "符文法师",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "纳祖芒荣耀",
+      "hero2": "赏金猎人",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "奥术先驱",
+      "hero2": "逆羽",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "万花通灵",
+      "hero2": "奥术先驱",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "奥术先驱",
+      "hero2": "诺克萨斯统领",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "仙灵女巫",
+      "hero2": "曙光女神",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "影流之镰",
+      "hero2": "暗夜猎手",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "影流之镰",
+      "hero2": "盲僧",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "暗夜猎手",
+      "hero2": "盲僧",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "曙光女神",
+      "hero2": "瘟疫之源",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    },
+    {
+      "hero1": "瘟疫之源",
+      "hero2": "荆棘之兴",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0
+    }
+  ],
+  "hero_ranking": [
+    {
+      "hero": "熔岩巨兽",
+      "games": 18,
+      "wins": 11,
+      "win_rate": 0.611,
+      "avg_score": 8.52
+    },
+    {
+      "hero": "仙灵女巫",
+      "games": 13,
+      "wins": 7,
+      "win_rate": 0.538,
+      "avg_score": 6.82
+    },
+    {
+      "hero": "赏金猎人",
+      "games": 12,
+      "wins": 7,
+      "win_rate": 0.583,
+      "avg_score": 10.4
+    },
+    {
+      "hero": "皮城女警",
+      "games": 11,
+      "wins": 7,
+      "win_rate": 0.636,
+      "avg_score": 11.62
+    },
+    {
+      "hero": "堕落天使",
+      "games": 10,
+      "wins": 6,
+      "win_rate": 0.6,
+      "avg_score": 6.59
+    },
+    {
+      "hero": "潮汐海灵",
+      "games": 10,
+      "wins": 5,
+      "win_rate": 0.5,
+      "avg_score": 11.22
+    },
+    {
+      "hero": "虚空掠夺者",
+      "games": 9,
+      "wins": 6,
+      "win_rate": 0.667,
+      "avg_score": 10.0
+    },
+    {
+      "hero": "深海泰坦",
+      "games": 9,
+      "wins": 6,
+      "win_rate": 0.667,
+      "avg_score": 6.06
+    },
+    {
+      "hero": "万花通灵",
+      "games": 9,
+      "wins": 3,
+      "win_rate": 0.333,
+      "avg_score": 5.79
+    },
+    {
+      "hero": "武器大师",
+      "games": 8,
+      "wins": 5,
+      "win_rate": 0.625,
+      "avg_score": 8.56
+    },
+    {
+      "hero": "荆棘之兴",
+      "games": 8,
+      "wins": 4,
+      "win_rate": 0.5,
+      "avg_score": 8.16
+    },
+    {
+      "hero": "暗夜猎手",
+      "games": 8,
+      "wins": 2,
+      "win_rate": 0.25,
+      "avg_score": 7.83
+    },
+    {
+      "hero": "铁铠冥魂",
+      "games": 7,
+      "wins": 6,
+      "win_rate": 0.857,
+      "avg_score": 10.59
+    },
+    {
+      "hero": "亡灵战神",
+      "games": 7,
+      "wins": 5,
+      "win_rate": 0.714,
+      "avg_score": 7.61
+    },
+    {
+      "hero": "战争女神",
+      "games": 7,
+      "wins": 3,
+      "win_rate": 0.429,
+      "avg_score": 7.33
+    },
+    {
+      "hero": "虚空先知",
+      "games": 7,
+      "wins": 2,
+      "win_rate": 0.286,
+      "avg_score": 6.39
+    },
+    {
+      "hero": "瘟疫之源",
+      "games": 7,
+      "wins": 1,
+      "win_rate": 0.143,
+      "avg_score": 8.29
+    },
+    {
+      "hero": "北地之怒",
+      "games": 6,
+      "wins": 5,
+      "win_rate": 0.833,
+      "avg_score": 8.8
+    },
+    {
+      "hero": "暴走萝莉",
+      "games": 6,
+      "wins": 4,
+      "win_rate": 0.667,
+      "avg_score": 9.82
+    },
+    {
+      "hero": "牛头酋长",
+      "games": 6,
+      "wins": 4,
+      "win_rate": 0.667,
+      "avg_score": 6.48
+    },
+    {
+      "hero": "永恒梦魇",
+      "games": 6,
+      "wins": 3,
+      "win_rate": 0.5,
+      "avg_score": 11.35
+    },
+    {
+      "hero": "解脱者",
+      "games": 6,
+      "wins": 2,
+      "win_rate": 0.333,
+      "avg_score": 9.25
+    },
+    {
+      "hero": "齐天大圣",
+      "games": 6,
+      "wins": 2,
+      "win_rate": 0.333,
+      "avg_score": 9.93
+    },
+    {
+      "hero": "符文法师",
+      "games": 6,
+      "wins": 2,
+      "win_rate": 0.333,
+      "avg_score": 8.15
+    },
+    {
+      "hero": "正义巨像",
+      "games": 6,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 6.62
+    },
+    {
+      "hero": "冰霜女巫",
+      "games": 5,
+      "wins": 4,
+      "win_rate": 0.8,
+      "avg_score": 11.2
+    },
+    {
+      "hero": "无畏战车",
+      "games": 5,
+      "wins": 4,
+      "win_rate": 0.8,
+      "avg_score": 13.64
+    },
+    {
+      "hero": "疾风剑豪",
+      "games": 5,
+      "wins": 3,
+      "win_rate": 0.6,
+      "avg_score": 7.32
+    },
+    {
+      "hero": "圣枪游侠",
+      "games": 5,
+      "wins": 3,
+      "win_rate": 0.6,
+      "avg_score": 9.9
+    },
+    {
+      "hero": "封魔剑魂",
+      "games": 5,
+      "wins": 3,
+      "win_rate": 0.6,
+      "avg_score": 12.46
+    },
+    {
+      "hero": "异画师",
+      "games": 5,
+      "wins": 3,
+      "win_rate": 0.6,
+      "avg_score": 9.3
+    },
+    {
+      "hero": "奥术先驱",
+      "games": 5,
+      "wins": 1,
+      "win_rate": 0.2,
+      "avg_score": 6.06
+    },
+    {
+      "hero": "龙血武姬",
+      "games": 4,
+      "wins": 4,
+      "win_rate": 1.0,
+      "avg_score": 11.28
+    },
+    {
+      "hero": "虚空遁地兽",
+      "games": 4,
+      "wins": 3,
+      "win_rate": 0.75,
+      "avg_score": 10.93
+    },
+    {
+      "hero": "爆破鬼才",
+      "games": 4,
+      "wins": 3,
+      "win_rate": 0.75,
+      "avg_score": 11.05
+    },
+    {
+      "hero": "时间刺客",
+      "games": 4,
+      "wins": 3,
+      "win_rate": 0.75,
+      "avg_score": 10.38
+    },
+    {
+      "hero": "皎月女神",
+      "games": 4,
+      "wins": 3,
+      "win_rate": 0.75,
+      "avg_score": 9.52
+    },
+    {
+      "hero": "百裂冥犬",
+      "games": 4,
+      "wins": 1,
+      "win_rate": 0.25,
+      "avg_score": 11.28
+    },
+    {
+      "hero": "河流之王",
+      "games": 4,
+      "wins": 1,
+      "win_rate": 0.25,
+      "avg_score": 8.78
+    },
+    {
+      "hero": "诺克萨斯之手",
+      "games": 4,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 8.7
+    },
+    {
+      "hero": "纳祖芒荣耀",
+      "games": 4,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 7.95
+    },
+    {
+      "hero": "沙漠死神",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0,
+      "avg_score": 11.93
+    },
+    {
+      "hero": "虚空之女",
+      "games": 3,
+      "wins": 3,
+      "win_rate": 1.0,
+      "avg_score": 12.03
+    },
+    {
+      "hero": "不屈之枪",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667,
+      "avg_score": 7.77
+    },
+    {
+      "hero": "远古巫灵",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667,
+      "avg_score": 11.23
+    },
+    {
+      "hero": "弗雷尔卓德之心",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667,
+      "avg_score": 8.23
+    },
+    {
+      "hero": "暗黑元首",
+      "games": 3,
+      "wins": 2,
+      "win_rate": 0.667,
+      "avg_score": 10.1
+    },
+    {
+      "hero": "不破之誓",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333,
+      "avg_score": 8.77
+    },
+    {
+      "hero": "殇之木乃伊",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333,
+      "avg_score": 5.8
+    },
+    {
+      "hero": "祖安狂人",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333,
+      "avg_score": 9.07
+    },
+    {
+      "hero": "逆羽",
+      "games": 3,
+      "wins": 1,
+      "win_rate": 0.333,
+      "avg_score": 12.07
+    },
+    {
+      "hero": "曙光女神",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 5.9
+    },
+    {
+      "hero": "诺克萨斯统领",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 6.17
+    },
+    {
+      "hero": "戏命师",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 11.23
+    },
+    {
+      "hero": "德邦总管",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 8.13
+    },
+    {
+      "hero": "盲僧",
+      "games": 3,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 7.63
+    },
+    {
+      "hero": "德玛西亚之力",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0,
+      "avg_score": 12.85
+    },
+    {
+      "hero": "离群之刺",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0,
+      "avg_score": 11.95
+    },
+    {
+      "hero": "铸星龙王",
+      "games": 2,
+      "wins": 2,
+      "win_rate": 1.0,
+      "avg_score": 12.15
+    },
+    {
+      "hero": "探险家",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 8.2
+    },
+    {
+      "hero": "无极剑圣",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 7.25
+    },
+    {
+      "hero": "暮光之眼",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 7.65
+    },
+    {
+      "hero": "虚空行者",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 6.75
+    },
+    {
+      "hero": "双界灵兔",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 10.15
+    },
+    {
+      "hero": "英勇投弹手",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 10.6
+    },
+    {
+      "hero": "寒冰射手",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 10.05
+    },
+    {
+      "hero": "德玛西亚之翼",
+      "games": 2,
+      "wins": 1,
+      "win_rate": 0.5,
+      "avg_score": 8.7
+    },
+    {
+      "hero": "海兽祭司",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 9.9
+    },
+    {
+      "hero": "破败之王",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 8.2
+    },
+    {
+      "hero": "含羞蓓蕾",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 11.6
+    },
+    {
+      "hero": "影流之镰",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 10.0
+    },
+    {
+      "hero": "巨魔之王",
+      "games": 2,
+      "wins": 0,
+      "win_rate": 0.0,
+      "avg_score": 8.8
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "position_rankings": {
+    "打野": {
+      "avg_score": 9.91,
+      "players": [
+        {
+          "name": "长杰",
+          "games": 32,
+          "avg_score": 10.4,
+          "win_rate": 0.406,
+          "wins": 13
+        },
+        {
+          "name": "ds5",
+          "games": 27,
+          "avg_score": 10.02,
+          "win_rate": 0.704,
+          "wins": 19
+        },
+        {
+          "name": "阿水",
+          "games": 7,
+          "avg_score": 9.47,
+          "win_rate": 0.0,
+          "wins": 0
+        },
+        {
+          "name": "高尚",
+          "games": 7,
+          "avg_score": 8.69,
+          "win_rate": 0.857,
+          "wins": 6
+        },
+        {
+          "name": "冬前",
+          "games": 3,
+          "avg_score": 7.63,
+          "win_rate": 0.0,
+          "wins": 0
+        }
+      ]
+    },
+    "上单": {
+      "avg_score": 8.97,
+      "players": [
+        {
+          "name": "冬前",
+          "games": 15,
+          "avg_score": 11.21,
+          "win_rate": 0.6,
+          "wins": 9
+        },
+        {
+          "name": "阿水",
+          "games": 8,
+          "avg_score": 10.76,
+          "win_rate": 0.375,
+          "wins": 3
+        },
+        {
+          "name": "马涛",
+          "games": 6,
+          "avg_score": 9.67,
+          "win_rate": 0.667,
+          "wins": 4
+        },
+        {
+          "name": "金金",
+          "games": 1,
+          "avg_score": 9.3,
+          "win_rate": 0.0,
+          "wins": 0
+        },
+        {
+          "name": "俊峰",
+          "games": 25,
+          "avg_score": 8.49,
+          "win_rate": 0.68,
+          "wins": 17
+        },
+        {
+          "name": "长杰",
+          "games": 3,
+          "avg_score": 8.2,
+          "win_rate": 0.333,
+          "wins": 1
+        },
+        {
+          "name": "老付",
+          "games": 2,
+          "avg_score": 7.7,
+          "win_rate": 0.0,
+          "wins": 0
+        },
+        {
+          "name": "凌浩",
+          "games": 6,
+          "avg_score": 7.27,
+          "win_rate": 0.5,
+          "wins": 3
+        },
+        {
+          "name": "高尚",
+          "games": 7,
+          "avg_score": 6.59,
+          "win_rate": 0.143,
+          "wins": 1
+        },
+        {
+          "name": "张昊",
+          "games": 3,
+          "avg_score": 6.0,
+          "win_rate": 0.0,
+          "wins": 0
+        }
+      ]
+    },
+    "中单": {
+      "avg_score": 8.86,
+      "players": [
+        {
+          "name": "凌浩",
+          "games": 8,
+          "avg_score": 10.64,
+          "win_rate": 1.0,
+          "wins": 8
+        },
+        {
+          "name": "阿水",
+          "games": 8,
+          "avg_score": 10.45,
+          "win_rate": 0.625,
+          "wins": 5
+        },
+        {
+          "name": "马涛",
+          "games": 6,
+          "avg_score": 10.15,
+          "win_rate": 0.667,
+          "wins": 4
+        },
+        {
+          "name": "帅b",
+          "games": 20,
+          "avg_score": 10.03,
+          "win_rate": 0.7,
+          "wins": 14
+        },
+        {
+          "name": "ds5",
+          "games": 3,
+          "avg_score": 9.8,
+          "win_rate": 0.333,
+          "wins": 1
+        },
+        {
+          "name": "金金",
+          "games": 15,
+          "avg_score": 7.37,
+          "win_rate": 0.133,
+          "wins": 2
+        },
+        {
+          "name": "铁锤",
+          "games": 1,
+          "avg_score": 7.2,
+          "win_rate": 0.0,
+          "wins": 0
+        },
+        {
+          "name": "冬前",
+          "games": 6,
+          "avg_score": 6.62,
+          "win_rate": 0.333,
+          "wins": 2
+        },
+        {
+          "name": "高尚",
+          "games": 4,
+          "avg_score": 6.45,
+          "win_rate": 0.0,
+          "wins": 0
+        },
+        {
+          "name": "俊峰",
+          "games": 4,
+          "avg_score": 6.28,
+          "win_rate": 0.5,
+          "wins": 2
+        },
+        {
+          "name": "老付",
+          "games": 1,
+          "avg_score": 5.3,
+          "win_rate": 0.0,
+          "wins": 0
+        }
+      ]
+    },
+    "射手": {
+      "avg_score": 9.94,
+      "players": [
+        {
+          "name": "ds5",
+          "games": 8,
+          "avg_score": 11.68,
+          "win_rate": 0.625,
+          "wins": 5
+        },
+        {
+          "name": "帅b",
+          "games": 18,
+          "avg_score": 10.93,
+          "win_rate": 0.667,
+          "wins": 12
+        },
+        {
+          "name": "阿水",
+          "games": 8,
+          "avg_score": 10.56,
+          "win_rate": 0.625,
+          "wins": 5
+        },
+        {
+          "name": "马涛",
+          "games": 20,
+          "avg_score": 9.67,
+          "win_rate": 0.55,
+          "wins": 11
+        },
+        {
+          "name": "冬前",
+          "games": 12,
+          "avg_score": 9.17,
+          "win_rate": 0.25,
+          "wins": 3
+        },
+        {
+          "name": "金金",
+          "games": 9,
+          "avg_score": 7.99,
+          "win_rate": 0.222,
+          "wins": 2
+        },
+        {
+          "name": "张昊",
+          "games": 1,
+          "avg_score": 5.4,
+          "win_rate": 0.0,
+          "wins": 0
+        }
+      ]
+    },
+    "辅助": {
+      "avg_score": 6.81,
+      "players": [
+        {
+          "name": "冬前",
+          "games": 2,
+          "avg_score": 8.15,
+          "win_rate": 0.0,
+          "wins": 0
+        },
+        {
+          "name": "阿水",
+          "games": 7,
+          "avg_score": 7.17,
+          "win_rate": 0.143,
+          "wins": 1
+        },
+        {
+          "name": "铁锤",
+          "games": 31,
+          "avg_score": 7.07,
+          "win_rate": 0.484,
+          "wins": 15
+        },
+        {
+          "name": "卞成栋",
+          "games": 3,
+          "avg_score": 6.87,
+          "win_rate": 1.0,
+          "wins": 3
+        },
+        {
+          "name": "张昊",
+          "games": 18,
+          "avg_score": 6.71,
+          "win_rate": 0.667,
+          "wins": 12
+        },
+        {
+          "name": "高尚",
+          "games": 9,
+          "avg_score": 6.3,
+          "win_rate": 0.444,
+          "wins": 4
+        },
+        {
+          "name": "俊峰",
+          "games": 6,
+          "avg_score": 5.63,
+          "win_rate": 0.5,
+          "wins": 3
+        }
+      ]
+    }
+  },
+  "kill_ranking": [
+    {
+      "name": "ds5",
+      "games": 38,
+      "avg_kills": 7.5,
+      "total_kills": 284,
+      "avg_assists": 8.2,
+      "total_assists": 310
+    },
+    {
+      "name": "马涛",
+      "games": 32,
+      "avg_kills": 7.1,
+      "total_kills": 227,
+      "avg_assists": 7.5,
+      "total_assists": 239
+    },
+    {
+      "name": "帅b",
+      "games": 38,
+      "avg_kills": 6.9,
+      "total_kills": 262,
+      "avg_assists": 8.9,
+      "total_assists": 340
+    },
+    {
+      "name": "长杰",
+      "games": 35,
+      "avg_kills": 6.5,
+      "total_kills": 227,
+      "avg_assists": 8.5,
+      "total_assists": 297
+    },
+    {
+      "name": "冬前",
+      "games": 38,
+      "avg_kills": 6.1,
+      "total_kills": 232,
+      "avg_assists": 6.9,
+      "total_assists": 262
+    },
+    {
+      "name": "阿水",
+      "games": 38,
+      "avg_kills": 5.9,
+      "total_kills": 226,
+      "avg_assists": 8.8,
+      "total_assists": 334
+    },
+    {
+      "name": "凌浩",
+      "games": 14,
+      "avg_kills": 5.6,
+      "total_kills": 79,
+      "avg_assists": 8.4,
+      "total_assists": 118
+    },
+    {
+      "name": "金金",
+      "games": 25,
+      "avg_kills": 4.1,
+      "total_kills": 102,
+      "avg_assists": 7.1,
+      "total_assists": 178
+    },
+    {
+      "name": "老付",
+      "games": 3,
+      "avg_kills": 2.7,
+      "total_kills": 8,
+      "avg_assists": 3.0,
+      "total_assists": 9
+    },
+    {
+      "name": "高尚",
+      "games": 27,
+      "avg_kills": 2.6,
+      "total_kills": 71,
+      "avg_assists": 9.6,
+      "total_assists": 260
+    },
+    {
+      "name": "俊峰",
+      "games": 35,
+      "avg_kills": 2.3,
+      "total_kills": 80,
+      "avg_assists": 9.8,
+      "total_assists": 344
+    },
+    {
+      "name": "铁锤",
+      "games": 32,
+      "avg_kills": 1.9,
+      "total_kills": 62,
+      "avg_assists": 13.8,
+      "total_assists": 443
+    },
+    {
+      "name": "张昊",
+      "games": 22,
+      "avg_kills": 1.8,
+      "total_kills": 39,
+      "avg_assists": 12.4,
+      "total_assists": 273
+    },
+    {
+      "name": "卞成栋",
+      "games": 3,
+      "avg_kills": 1.3,
+      "total_kills": 4,
+      "avg_assists": 18.3,
+      "total_assists": 55
+    }
+  ],
+  "assist_ranking": [
+    {
+      "name": "卞成栋",
+      "games": 3,
+      "avg_kills": 1.3,
+      "total_kills": 4,
+      "avg_assists": 18.3,
+      "total_assists": 55
+    },
+    {
+      "name": "铁锤",
+      "games": 32,
+      "avg_kills": 1.9,
+      "total_kills": 62,
+      "avg_assists": 13.8,
+      "total_assists": 443
+    },
+    {
+      "name": "张昊",
+      "games": 22,
+      "avg_kills": 1.8,
+      "total_kills": 39,
+      "avg_assists": 12.4,
+      "total_assists": 273
+    },
+    {
+      "name": "俊峰",
+      "games": 35,
+      "avg_kills": 2.3,
+      "total_kills": 80,
+      "avg_assists": 9.8,
+      "total_assists": 344
+    },
+    {
+      "name": "高尚",
+      "games": 27,
+      "avg_kills": 2.6,
+      "total_kills": 71,
+      "avg_assists": 9.6,
+      "total_assists": 260
+    },
+    {
+      "name": "帅b",
+      "games": 38,
+      "avg_kills": 6.9,
+      "total_kills": 262,
+      "avg_assists": 8.9,
+      "total_assists": 340
+    },
+    {
+      "name": "阿水",
+      "games": 38,
+      "avg_kills": 5.9,
+      "total_kills": 226,
+      "avg_assists": 8.8,
+      "total_assists": 334
+    },
+    {
+      "name": "长杰",
+      "games": 35,
+      "avg_kills": 6.5,
+      "total_kills": 227,
+      "avg_assists": 8.5,
+      "total_assists": 297
+    },
+    {
+      "name": "凌浩",
+      "games": 14,
+      "avg_kills": 5.6,
+      "total_kills": 79,
+      "avg_assists": 8.4,
+      "total_assists": 118
+    },
+    {
+      "name": "ds5",
+      "games": 38,
+      "avg_kills": 7.5,
+      "total_kills": 284,
+      "avg_assists": 8.2,
+      "total_assists": 310
+    },
+    {
+      "name": "马涛",
+      "games": 32,
+      "avg_kills": 7.1,
+      "total_kills": 227,
+      "avg_assists": 7.5,
+      "total_assists": 239
+    },
+    {
+      "name": "金金",
+      "games": 25,
+      "avg_kills": 4.1,
+      "total_kills": 102,
+      "avg_assists": 7.1,
+      "total_assists": 178
+    },
+    {
+      "name": "冬前",
+      "games": 38,
+      "avg_kills": 6.1,
+      "total_kills": 232,
+      "avg_assists": 6.9,
+      "total_assists": 262
+    },
+    {
+      "name": "老付",
+      "games": 3,
+      "avg_kills": 2.7,
+      "total_kills": 8,
+      "avg_assists": 3.0,
+      "total_assists": 9
+    }
+  ]
+}

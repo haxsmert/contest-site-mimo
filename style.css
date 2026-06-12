@@ -1,0 +1,100 @@
+
+:root{--bg:#070d18;--panel:#0e1726;--line:#1f2f44;--txt:#e7f1fb;--mut:#7fa0ba;--gold:#f1d98f;}
+*{box-sizing:border-box;}
+body{margin:0;background:var(--bg);color:var(--txt);
+     font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;-webkit-tap-highlight-color:transparent;}
+a{color:inherit;text-decoration:none;}
+img{display:block;}
+header.hero{padding:30px 20px 6px;text-align:center;}
+header.hero h1{margin:0;font-size:27px;letter-spacing:2px;}
+header.hero .sub{color:var(--mut);font-size:13px;margin-top:8px;}
+header.bar{position:sticky;top:0;z-index:40;display:flex;align-items:center;gap:10px;
+     background:rgba(7,13,24,.94);backdrop-filter:blur(8px);padding:14px 20px;border-bottom:1px solid var(--line);}
+/* 面包屑:完整路径每级可点(原来只有"‹ 上一级",回首页要点两次)。
+   宽度够时全部展示;窄屏靠 flex+ellipsis 先把祖先层压缩成省略号,当前层尽量保留。 */
+header.bar nav.crumbs{display:flex;align-items:center;gap:8px;min-width:0;flex:1;}
+header.bar .crumbs a{color:var(--mut);font-size:15px;padding:6px 4px;white-space:nowrap;
+     overflow:hidden;text-overflow:ellipsis;flex:0 1 auto;min-width:2.5em;
+     border-radius:6px;transition:color .15s,background .15s;}
+header.bar .crumbs a:hover{color:var(--txt);background:rgba(255,255,255,.06);}
+header.bar .crumbs .sep{color:var(--mut);opacity:.4;flex:0 0 auto;font-size:13px;}
+header.bar .crumbs .cur{color:var(--txt);font-size:17px;font-weight:600;white-space:nowrap;
+     overflow:hidden;text-overflow:ellipsis;min-width:0;flex:0 1 auto;
+     padding:6px 4px;background:rgba(255,255,255,.04);border-radius:6px;}
+.wrap{max-width:1180px;margin:0 auto;padding:18px 16px 44px;}
+
+/* 相册封面(主页三相册 / 比赛日期子相册)。封面框 3:2 贴合海报与战力榜(均 1.5),
+   选手卡(竖图)靠 object-position:top 显示顶部姓名头像而非中段。 */
+.albums{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));}
+.folder{display:block;background:var(--panel);border:1px solid var(--line);border-radius:14px;overflow:hidden;
+        transition:transform .15s,border-color .15s;}
+.folder:hover{transform:translateY(-3px);border-color:var(--gold);}
+.folder .cv{aspect-ratio:3/2;overflow:hidden;background:#0b1320;}
+.folder .cv img{width:100%;height:100%;object-fit:cover;object-position:top;}
+.folder .fm{display:flex;justify-content:space-between;align-items:baseline;padding:11px 14px;}
+.folder .ft{font-size:16px;font-weight:600;}
+.folder .fc{color:var(--mut);font-size:12px;}
+.entry{max-width:1180px;margin:20px auto 0;}
+.entry a{display:flex;align-items:center;justify-content:center;gap:8px;padding:14px;border-radius:12px;
+        border:1px dashed var(--line);color:var(--mut);font-size:14px;}
+.entry a:hover{border-color:var(--gold);color:var(--txt);}
+
+/* 缩略图画廊:统一尺寸 + 自然比例(绝不拉伸) + 居中(末行也居中、无大块留白)。
+   海报/选手卡各自同比例,塞进等宽 tile 自然等高,天然成整齐网格。 */
+.gallery{display:flex;flex-wrap:wrap;gap:14px;justify-content:center;}
+.gallery .tile{flex:0 1 220px;}
+.tile{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;}
+.tile a{display:block;}
+.tile img{width:100%;height:auto;cursor:zoom-in;background:#0b1320;}
+.tile .cap,.shot .cap{padding:9px 12px;font-size:13px;color:var(--mut);text-align:center;}
+
+/* 战力榜:四张比例参差(含一张超高的位置榜),用 masonry 纵向 packing —
+   每张保留自然比例,既不裁切也不在矮图下方留大白块。 */
+.masonry{columns:2;column-gap:14px;}
+.masonry .tile{break-inside:avoid;margin:0 0 14px;}
+
+footer{color:var(--mut);font-size:12px;text-align:center;padding:30px 20px 40px;}
+
+/* 全屏画册 */
+#lb{position:fixed;inset:0;z-index:100;background:rgba(0,0,0,.94);display:none;
+    align-items:center;justify-content:center;overflow:hidden;touch-action:none;}
+#lb.on{display:flex;}
+#lb img{max-width:96vw;max-height:84vh;object-fit:contain;transform-origin:center center;will-change:transform;}
+#lb .x{position:absolute;top:10px;right:18px;font-size:36px;color:#fff;cursor:pointer;line-height:1;z-index:2;}
+#lb .bar{position:absolute;bottom:18px;left:0;right:0;display:flex;align-items:center;justify-content:center;
+         gap:26px;z-index:2;}
+#lb .bar button{width:54px;height:54px;border-radius:50%;border:1px solid rgba(255,255,255,.35);
+         background:rgba(20,28,42,.7);color:#fff;font-size:26px;cursor:pointer;line-height:1;}
+#lb .bar button:active{background:rgba(60,72,96,.8);}
+#lb .ct{color:#cfe0ee;font-size:14px;min-width:54px;text-align:center;}
+
+/* 整页炫酷版:全分辨率原图、自然比例,不放大缩略、不拉伸。
+   PC 不固定宽度,跟移动端一样按视口自适应铺满(只留内边距);max-width 取 4200px(≈最窄榜单源宽 位置榜4320)
+   纯作上限保险——任何真实显示器(≤3440)都到不了,故等于完全随宽自适应,仅防超宽屏(>4200)把整图放大发糊。 */
+.allpage{max-width:4200px;margin:0 auto;padding:6px clamp(16px,2.6vw,64px) 44px;}
+h2.sec{font-size:19px;margin:32px 0 14px;padding-left:12px;border-left:4px solid var(--gold);}
+.shot{margin:0 0 18px;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:var(--panel);}
+.shot img{width:100%;height:auto;cursor:zoom-in;}
+/* 整页版战力榜:位置榜是竖长条 → 单独占左列,个人/高阶/击杀三张竖堆右列(各自然比例、不裁不留空底)。窄屏退单列。 */
+.boardcols{display:flex;gap:18px;align-items:flex-start;}
+.boardcols .bcol{flex:1 1 0;min-width:0;display:flex;flex-direction:column;gap:18px;}
+.boardcols .shot{margin:0;}
+.matchblk{margin:0 0 6px;}
+.matchblk .d{color:var(--gold);font-weight:600;margin:18px 2px 12px;font-size:16px;}
+.pair{display:flex;flex-wrap:wrap;gap:16px;}
+.pair .shot{flex:1 1 460px;margin:0 0 16px;}
+.cardgrid{display:flex;flex-wrap:wrap;gap:14px;justify-content:center;}
+.cardgrid .tile{flex:0 1 200px;}
+.more{display:block;margin:10px auto 0;padding:10px 24px;background:var(--panel);border:1px solid var(--line);
+      color:var(--txt);border-radius:10px;font-size:14px;cursor:pointer;}
+
+@media(max-width:760px){ .masonry{columns:1;} }
+@media(max-width:900px){   /* 窄屏:战力榜退单列;很长的位置榜放最后,免一上来就挡住其它 */
+  .boardcols{flex-direction:column;}
+  .boardcols .bcol-left{order:2;}
+}
+@media(max-width:640px){
+  .gallery .tile{flex-basis:44vw;}
+  .pair .shot{flex-basis:100%;}
+  .cardgrid .tile{flex-basis:44vw;}
+}
